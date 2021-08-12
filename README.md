@@ -2,7 +2,8 @@
 For PSVita.  
 
 Google Sheets: https://docs.google.com/spreadsheets/d/1zKITpUzYVVfJPYkHfGfXUqBm9wMFKJKDYfZEhjUzWXU/edit#gid=0  
-Discord: https://discord.gg/vRmwUZUDwb
+
+Discord: https://discord.gg/vRmwUZUDwb  
 
 
 ## Hacker Note 1
