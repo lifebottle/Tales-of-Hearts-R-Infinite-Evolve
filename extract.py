@@ -20,7 +20,7 @@ def extract(source, destination):
 
     destination.mkdir(parents=True, exist_ok=True)
 
-    #toir.extract_eboot(ebootpath, destination)
+    toir.extract_eboot(ebootpath, destination)
     #toir.extract_dat(l7cdir, destination)
     #toir.extract_map_data(l7cdir, destination)
     #toir.extract_script(l7cdir, destination)
