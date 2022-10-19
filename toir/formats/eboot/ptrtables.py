@@ -1,5 +1,5 @@
 POINTER_TABLES = [
-    ("Grade Modifiers", 0x811743d0, 0x81174454),
-    ("", 0x81174984, 0x81174ad0),
-    ("Stats", 0x81174aec, 0x81174b18),
+    ("Options", 0x81141710, 0x81141724),
+    ("Dunno1", 0x81141f20, 0x81141f40),
+    ("Dunno2", 0x8114200c, 0x81142014),
 ]
