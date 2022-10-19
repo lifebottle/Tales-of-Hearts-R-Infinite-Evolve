@@ -9,6 +9,7 @@ with open('strings_ghidra.csv', 'r', encoding='utf-8', newline='') as f:
             'value': row['value'],
             'refs': [],
         }
+    print(strings)
 
 def look_for_string(location):
     if location in strings:
@@ -17,7 +18,7 @@ def look_for_string(location):
 with open('boot.elf', 'rb') as f:
     eboot = f.read()
 
-"""
+
 # THUMB instructions
 for i in range(0x1000, 0x144000, 2):
     hw1, hw2 = struct.unpack_from('<HH', eboot, i)
@@ -33,8 +34,9 @@ for i in range(0x1000, 0x144000, 2):
                     string = look_for_string((immt << 16) + immw)
                     if string:
                         string['refs'].append((i + 0x80FFF000, j + 0x80FFF000))
-"""
 
+
+"""
 # ARM instructions
 for i in range(0x1000, 0x144000, 4):
     w, = struct.unpack_from('<L', eboot, i)
@@ -52,6 +54,7 @@ for i in range(0x1000, 0x144000, 4):
                     string = look_for_string(target)
                     if string:
                         string['refs'].append((i + 0x80FFF000, j + 0x80FFF000))
+"""
 
 
 with open('embeddedptrs.py', 'w') as f:
