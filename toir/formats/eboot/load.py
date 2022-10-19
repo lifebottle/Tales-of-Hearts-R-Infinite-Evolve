@@ -1,10 +1,10 @@
 import hashlib
 
 def address_to_offset(address):
-    return address - 0x80FFE000
+    return address - 0x80FFEF60
 
 def offset_to_address(offset):
-    return offset + 0x80FFE000
+    return offset + 0x80FFEF60
 
 _EBOOT_ELF_HASH = ("93ce22efa901de4a7013aa7dee99aad4"
                    "60226ad5705f5f90098c875d8ac92aa7"
