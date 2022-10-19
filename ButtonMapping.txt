@@ -1,0 +1,45 @@
+40 40 40 06 02 = Square
+40 40 40 06 03 = Triangle
+40 40 40 06 04 = L1
+40 40 40 06 05 = R1
+40 40 40 06 06 = Start
+40 40 40 06 07 = Select
+40 40 40 06 08 = dpad
+40 40 40 06 09 = Right_dpad
+40 40 40 06 0A = Down_dpad
+40 40 40 06 0B = Left_dpad
+40 40 40 06 0C = Up_dpad
+40 40 40 06 0D = Leftright_dpad
+40 40 40 06 0F = L_analogue
+40 40 40 06 16 = R_analogue
+
+40 40 40 67 00 = Icon (soma artes in heart R)
+40 40 40 67 01 = Icon (hybrid artes in heart R)
+40 40 40 67 04 = Icon_poison
+40 40 40 67 05 = Icon_weak
+40 40 40 67 06 = Icon_paralysis
+40 40 40 67 07 = Icon_arteseal
+40 40 40 67 08 = Icon_petrification
+40 40 40 67 09 = Icon_P. ATK
+40 40 40 67 0A = Icon_P.DEF
+40 40 40 67 0B = Icon_A.ATK
+40 40 40 67 0C = Icon_A.DEF
+40 40 40 67 0E = Icon_Fire
+40 40 40 67 0F = Icon_Water
+40 40 40 67 10 = Icon_Earth
+40 40 40 67 11 = Icon_Wind
+40 40 40 67 12 = Icon_Lightning
+40 40 40 67 13 = Icon_Light
+40 40 40 67 14 = Icon_Dark
+40 40 40 67 15 = Icon_happybubble
+40 40 40 67 16 = Icon_sadbubble
+
+40 41 40 00 = Cross
+40 41 40 01 = Square
+40 41 40 02 = Circle
+40 41 40 03 = Triangle
+
+40 01 40 01 = Color_red
+40 01 40 02 = Color_turquoise
+40 01 40 03 = Color_blue
+40 01 40 04 = Nullcolor 

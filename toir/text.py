@@ -1,5 +1,6 @@
 import re
 import struct
+import os
 
 _ICONS_40 = {
     0x0406: 'left_analog',
@@ -33,6 +34,7 @@ _BUTTONS_41 = {
     0x01: 'cross',
     0x02: 'square',
     0x03: 'triangle',
+    0x04: 'l1',
     0x04: 'l1',
     0x05: 'l2'
 }
@@ -111,6 +113,7 @@ def get_next_end(buffer, offset, end):
         return min(i + 1, end)
 
 def decode_text_and_offset(buffer, offset, max_len=0):
+    print(f"0x{offset:08X}")
     if not max_len:
         end = len(buffer)
     else:
@@ -127,6 +130,7 @@ def decode_text_and_offset(buffer, offset, max_len=0):
         next_at = buffer.find(b'@', last)
         next_end = get_next_end(buffer, last, end)
     text += buffer[last:next_end].decode('utf-8')
+    print(text)
     return text.replace('\r', '').replace('\0', ''), next_end
 
 def decode_text(buffer, offset, max_len=0):
