@@ -1,667 +1,513 @@
-File,Field,Index,Speakers,Japanese,Speakers (E),English
-0000.dat,speaker,0,,ガラド,,URMOMA
-0000.dat,speaker,1,,シング,,Shing
+File,Field,Index,Speakers,Japanese,Speakers (E),English,comments
+0000.dat,speaker,0,,ガラド,,Gall,
+0000.dat,speaker,1,,シング,,Shing,
 0000.dat,line,12,0 [ガラド],"どうした、シング？
-なにか悩みでもあるのか？",0 [ガラド],"YO Infinite Heart is Hacked and ready to be translated
-"
-0000.dat,line,15,1 [シング],ガラド、ものは相談なんだけどさ……,1 [シング],"My name is Shing but it's pronounced ""Kor"""
-0000.dat,line,19,0 [ガラド],ああん？　なんだ、改まって,0 [ガラド],"Oh, oh? What is it?"
-0000.dat,line,26,1 [シング],ガラド、オレ…………っ！,1 [シング],"Galad, me ...!"
-0000.dat,line,30,1 [シング],オレ、男になりたいんだ！,1 [シング],I want to be a man!
+なにか悩みでもあるのか？",0 [Gall],"What’s the matter Shing? Something bothering
+you?",
+0000.dat,line,15,1 [シング],ガラド、ものは相談なんだけどさ……,1 [Shing],"Well, Gall, I would like to discuss something
+with you.",
+0000.dat,line,19,0 [ガラド],ああん？　なんだ、改まって,0 [Gall],Wha-? Why so formal?,
+0000.dat,line,26,1 [シング],ガラド、オレ…………っ！,1 [Shing],"Gall, I...",
+0000.dat,line,30,1 [シング],オレ、男になりたいんだ！,1 [Shing],I want to become a man!,
 0000.dat,line,46,0 [ガラド],"はは～ん、さては、
 嬢ちゃんといちゃつきてぇってことか。
-いいねぇ、青春だねぇ",0 [ガラド],"Haha, Well,
-Is it that you are flirting with the young lady?
-Good, youth"
+いいねぇ、青春だねぇ",0 [Gall],"Hoho～, so you want to get with the ladies, huh?
+Ah, to be young...",
 0000.dat,line,51,1 [シング],"い、いちゃつくっていうか!?
 え、えと…そんなんじゃなくて、
-オレは純粋にコハクと――",1 [シング],"Do you want to make it!?
-Eh, uh ... not that,
-I'm purely Kohaku-"
+オレは純粋にコハクと――",1 [Shing],"G-get with the ladies?! Um... No, not that, my
+intentions for Kohaku are pure...",
 0000.dat,line,56,0 [ガラド],"まぁまぁ、そう照れなさんな。
-そういうことなら、いっちょ俺が鍛えてやるぜ",0 [ガラド],"Well, I'm so shy.
-If that's the case, I'll train at once"
+そういうことなら、いっちょ俺が鍛えてやるぜ",0 [Gall],"Now now, no need to get flustered. I’ll help
+whip you into shape.",
 0000.dat,line,60,0 [ガラド],"あとは、そうだな…
 俺はおまえを男にすることはできるが、
-年頃の嬢ちゃんの気持ちまではちょっとなぁ……",0 [ガラド],"The rest is ...
-I can make you a man,
-It's a bit of a young lady's feelings ..."
+年頃の嬢ちゃんの気持ちまではちょっとなぁ……",0 [Gall],"Well then... I could make a man out of you, but
+I have no idea what the ladies like these days...",
 0000.dat,line,69,0 [ガラド],"みんなのアドバイスを
-聞いてみるものいいんじゃねぇか？",0 [ガラド],"Everyone's advice
-Isn't it good to ask?"
+聞いてみるものいいんじゃねぇか？",0 [Gall],"Maybe you should go ask everyone else for
+their advice?",
 0000.dat,line,74,0 [ガラド],"近くにベリルがいたはずだ。
-まずはそこからいくとするか",0 [ガラド],"Beryl should have been nearby.
-Do you want to start from there?"
+まずはそこからいくとするか",0 [Gall],"Beryl should be nearby. We should head on
+over to her first.",
 0000.dat,line,78,1 [シング],"よし、まずはベリルだね。
-ガンドコ行こう！",1 [シング],"Alright, first of all, beryl.
-Let's go Gando!"
+ガンドコ行こう！",1 [Shing],"Alright, let’s go find Beryl! Time to go all out!",
 0000.dat,line,82,0 [ガラド],"おっと、早まるなシング！
 まず最初に、男について、
-大事なことを教えておかなくちゃならない",0 [ガラド],"Oops, the fasting steep!
-First, about a man
-I have to tell you the important things"
+大事なことを教えておかなくちゃならない",0 [Gall],"Hey, let’s not get ahead of ourselves, Shing!
+First things first, let me tell you something you 
+need to know about being a man.",
 0000.dat,line,89,0 [ガラド],"男って言うのはな、強くなきゃならねぇ。
 それは男の必須条件だ。
-強くなくちゃ、守りたいものも、守れねぇ",0 [ガラド],"I have to be a man, I have to be strong.
-It is a male essential condition.
-You have to be strong and you can't protect what you want to protect"
+強くなくちゃ、守りたいものも、守れねぇ",0 [Gall],"If you’re going to call yourself a man, one of the
+main tenets is that you gotta be strong. If you 
+aren’t, you aren’t keeping anyone safe. ",
 0000.dat,line,93,0 [ガラド],"強くない奴は、
-男について、語ることも、学ぶ資格もないのさ…",0 [ガラド],"If you're not strong
-I don't have any qualifications to talk about a man ..."
+男について、語ることも、学ぶ資格もないのさ…",0 [Gall],"Weaklings have no right to talk about being a
+man, and aren’t cut out to learn about being 
+a man...",
 0000.dat,line,97,0 [ガラド],"だから、まずは相手に
-自分が強いということを示すんだ",0 [ガラド],"So first to the other party
-Indicates that you are strong"
+自分が強いということを示すんだ",0 [Gall],"So you need to show whoever you’re up against
+just who’s boss.",
 0000.dat,line,101,0 [ガラド],"全ては、勝負に勝ってから！
-それが、男道ってもんなのさ",0 [ガラド],"Everything wins the game!
-That's what a male road is"
-0000.dat,line,107,1 [シング],そ、そういうものなの…？,1 [シング],Is that something like that ...?
+それが、男道ってもんなのさ",0 [Gall],"It’s all about triumphing over whatever comes
+your way! That’s how a man does things.",
+0000.dat,line,107,1 [シング],そ、そういうものなの…？,1 [Shing],Is that really what it’s all about?,
 0000.dat,line,111,0 [ガラド],"いいな。これは、そういうもんなんだ。
-わかったな",0 [ガラド],"Good. This is something like that.
-I understand"
+わかったな",0 [Gall],Yes. That’s what it’s all about. Capiche?,
 0000.dat,line,115,1 [シング],"う、うん！　わかったよガラド！
 よーし、やってやるぞ！
-絶対男になってやる！",1 [シング],"No! Okay, Galado!
-Okay, I'll do it!
-I will definitely be a man!"
-0001.dat,speaker,0,,シング,,Singing
-0001.dat,speaker,1,,ガラド,,Galado
-0001.dat,speaker,2,,ベリル,,Beryl
+絶対男になってやる！",1 [Shing],"Y-yeah! I totally get it, Gall! All right, let’s get this
+show on the road! I’m going to become a man!",
+0001.dat,speaker,0,,シング,,Shing,
+0001.dat,speaker,1,,ガラド,,Gall,
+0001.dat,speaker,2,,ベリル,,Beryl,
 0001.dat,line,0,2 [ベリル],"真の男になるために修行中？
 ふ～ん、なるほどねぇ。
-で、ボクには何を教えて欲しいのさ？",2 [ベリル],"Are you training to become a true man?
-Hmm, I see.
-So what do you want me to tell me?"
+で、ボクには何を教えて欲しいのさ？",2 [Beryl],"So you’re training to become a real man? 
+Hmm～, I see... So, whaddaya want to ask 
+me about?",
 0001.dat,line,16,2 [ベリル],"うーん、そうだなぁ。
-シングに足りないのは紳士さじゃないかなぁ？",2 [ベリル],"Well, that's right.
-Isn't it a gentleman who is not enough in the singing?"
+シングに足りないのは紳士さじゃないかなぁ？",2 [Beryl],"Hmmm, well, you are kinda lacking in the 
+gentleness of manliness, Shing...",
 0001.dat,line,22,1 [ガラド],"確かに。ガンドコ猪突猛進なサマに、
-紳士さが備われば嬢ちゃんもイチコロかもなぁ！",1 [ガラド],"surely. To Sama with a fierce Gando wild boar
-If you have a gentleman, you may be a girl!"
+紳士さが備われば嬢ちゃんもイチコロかもなぁ！",1 [Gall],"She’s right. If that all-out going recklessness
+of yours possessed the air of a gentleman, then 
+you’d be a total ladykiller.",
 0001.dat,line,27,2 [ベリル],"そうだ、クンツァイトなら
-その辺ばっちりじゃないかな？",2 [ベリル],"Yes, if it's Kunzite
-Isn't that perfect?"
+その辺ばっちりじゃないかな？",2 [Beryl],"Kunzite would probably be the perfect guy to 
+ask about that!",
 0001.dat,line,32,1 [ガラド],"よぅし、そんじゃあ次は
-クンツァイトに会いに行こうぜ！",1 [ガラド],"Yeah, then next
-Let's go see Kunzite!"
-0002.dat,speaker,0,,ガラド,,Galado
-0002.dat,speaker,1,,シング,,Singing
-0002.dat,speaker,2,,ベリル,,Beryl
-0002.dat,line,0,1 [シング],あれ？　クンツァイトは？,1 [シング],that? What about Kunzite?
+クンツァイトに会いに行こうぜ！",1 [Gall],"All right, let’s go pay Kunzite a visit next!",
+0002.dat,speaker,0,,ガラド,,Gall,
+0002.dat,speaker,1,,シング,,Shing,
+0002.dat,speaker,2,,ベリル,,Beryl,
+0002.dat,line,0,1 [シング],あれ？　クンツァイトは？,1 [Shing],Huh? Where’d Kunzite go?,
 0002.dat,line,4,2 [ベリル],"『リチアさまの空腹を察知』って言って
-凄い勢いで走ってっちゃった",2 [ベリル],"Say ""Lician's hunger""
-I ran with great momentum"
+凄い勢いで走ってっちゃった",2 [Beryl],"He ""sensed Lady Lithia’s hunger"" and took off
+in a hurry.",
 0002.dat,line,11,0 [ガラド],"ったく、クンツァイトも相変わらずだな。
-んじゃ、ちょっくら別の手を打つとするか",0 [ガラド],"It's still the same.
-Well, do you want to take another hand?"
+んじゃ、ちょっくら別の手を打つとするか",0 [Gall],"Jeez, that’s just like that bucket of bolts. Let’s
+take another stab at this elsewhere",Kunzite is a robot soo
 0002.dat,line,19,0 [ガラド],"羽の兄さんが近くにいたはずだから、
-そっちに向かうとしようぜ",0 [ガラド],"Because my brother's brother should have been nearby
-Let's go there"
-0002.dat,line,23,1 [シング],そうか、カルなら力を貸してくれそうだ,1 [シング],"Yeah, Kal is likely to help me"
-0003.dat,speaker,0,,シング,,Singing
-0003.dat,speaker,1,,ガラド,,Galado
-0003.dat,speaker,2,,ベリル,,Beryl
-0003.dat,line,1,2 [ベリル],アイテテ……なんでプニプニの人が……,2 [ベリル],Idetete ... Why a Punipuni person ...
+そっちに向かうとしようぜ",0 [Gall],"I’m sure Wings is close by, so let’s go see where
+he’s perched.",羽の兄さん = Wings in Rs localization
+0002.dat,line,23,1 [シング],そうか、カルなら力を貸してくれそうだ,1 [Shing],"Yeah, Chalcedony should be willing to lend
+a hand.",
+0003.dat,speaker,0,,シング,,Shing,
+0003.dat,speaker,1,,ガラド,,Gall,
+0003.dat,speaker,2,,ベリル,,Beryl,
+0003.dat,line,1,2 [ベリル],アイテテ……なんでプニプニの人が……,2 [Beryl],W-what’s with that bouncy babe...?,
 0003.dat,line,5,1 [ガラド],"こういうことは羽の兄さんに相談する前に
 あたしを通せ、だとさ。
-言うだけ言って帰っちまったがな",1 [ガラド],"This kind of thing is before consulting with the brother's brother
-Get me through.
-I just said that I came home"
-0003.dat,line,9,2 [ベリル],で、プニプニの人はなんて言ってたのさ？,2 [ベリル],So what did Punipuni say?
+言うだけ言って帰っちまったがな",1 [Gall],"""Before you go and ask Wings for advice, I've
+got my own piece of advice,"" is what she said
+before she went off.",～
+0003.dat,line,9,2 [ベリル],で、プニプニの人はなんて言ってたのさ？,2 [Beryl],So what did she say?,
 0003.dat,line,13,1 [ガラド],"当たって砕けろ、それが真の男だよ！
-…ってな具合だったな",1 [ガラド],"Break down, it's a true man!
-… It was"
+…ってな具合だったな",1 [Gall],"""Go for the broke! That’s the way of a true man!""
+...Or something like that.",
 0003.dat,line,19,2 [ベリル],"うへ…まったく参考にならない。
 気を取り直して
-カルセドニーのところへ行こー！",2 [ベリル],"Uh ... it is not helpful at all.
-take heart
-Go to Calcedney!"
-0004.dat,speaker,0,,カルセドニー,,Calcednony
-0004.dat,speaker,1,,シング,,Singing
-0004.dat,speaker,2,,ガラド,,Galado
-0004.dat,speaker,3,,ベリル,,Beryl
+カルセドニーのところへ行こー！",2 [Beryl],"And how is that’s supposed to be helpful? Let’s
+just go on and find wherever Chalcedony is!",
+0004.dat,speaker,0,,カルセドニー,,Chalcedony,
+0004.dat,speaker,1,,シング,,Shing,
+0004.dat,speaker,2,,ガラド,,Gall,
+0004.dat,speaker,3,,ベリル,,Beryl,
 0004.dat,line,0,0 [カルセドニー],"なるほど。
-コハクに想いを伝えるにはどうすればいいか、か",0 [カルセドニー],"I see.
-How do I convey my thoughts to Kohaku?"
+コハクに想いを伝えるにはどうすればいいか、か",0 [Chalcedony],"I understand. So what will you do to convey
+your feelings to Kohaku?",
 0004.dat,line,5,1 [シング],"わー！　わー！　待った待ったぁ！
-そんなにはっきり言わなくてもいいだろ!?",1 [シング],"Oh! Oh! I waited!
-You don't have to say so clearly!?"
+そんなにはっきり言わなくてもいいだろ!?",1 [Shing],"Waitー Hold on! You can't go blurting stuff out
+like that!",
 0004.dat,line,13,0 [カルセドニー],"何を慌てているのだ？
 そんな調子では到底、おまえに
-想いを伝えることなどできそうにないが…",0 [カルセドニー],"What are you in a hurry?
-In such a condition, it is almost me
-I don't think I can convey my thoughts ..."
+想いを伝えることなどできそうにないが…",0 [Chalcedony],"What are you getting worked up for? With that
+attitude, I don’t think you’ll never make any
+progress in conveying your feelings.",
 0004.dat,line,18,1 [シング],"やるよ、オレ。
-ガラドに男になる、って誓ったしさ",1 [シング],"I'll do it, me.
-I swore to be a man in Galado"
+ガラドに男になる、って誓ったしさ",1 [Shing],"I will, Gall swore to make a man out of me.",
 0004.dat,line,21,0 [カルセドニー],"おまえの決意、見せてもらおう。
 その誓いこそが
-おまえ自身のスピリアを強くする",0 [カルセドニー],"I'll show you your determination.
-That oath is
-Strengthen your own Spilia"
+おまえ自身のスピリアを強くする",0 [Chalcedony],"Then show me your convictionー Your vow to
+make your Spiria stronger.",
 0004.dat,line,25,1 [シング],"で、でも…オレ、なんて言ったらいいか
-思いつかないんだ……",1 [シング],"So, but ... what should I say
-I can't think of it ..."
+思いつかないんだ……",1 [Shing],B-but I can’t think of anything to say...,
 0004.dat,line,30,3 [ベリル],"んー、だったらあの人に聞いてみるのはどう？
-世界勇者の人",3 [ベリル],"Well, how about asking that person?
-World hero"
+世界勇者の人",3 [Beryl],"Then why don't you try asking the ""World's 
+Bravest Man"" about it?",
 0004.dat,line,38,2 [ガラド],"そいつぁ面白そうだな。
-行ってみようぜ",2 [ガラド],"It looks interesting.
-Let's go"
-0005.dat,speaker,0,,コハク,,Kohaku
-0005.dat,speaker,1,,シング,,Singing
-0005.dat,speaker,2,,カルセドニー,,Calcednony
-0005.dat,speaker,3,,ベリル,,Beryl
-0005.dat,speaker,4,,ガラド,,Galado
-0005.dat,line,1,1 [シング],それで、アーメスは何て言ってたの？,1 [シング],So what did Ames say?
+行ってみようぜ",2 [Gall],This ought to be interesting. Let’s go meet him.,
+0005.dat,speaker,0,,コハク,,Kohaku,
+0005.dat,speaker,1,,シング,,Shing,
+0005.dat,speaker,2,,カルセドニー,,Chalcedony,
+0005.dat,speaker,3,,ベリル,,Beryl,
+0005.dat,speaker,4,,ガラド,,Gall,
+0005.dat,line,1,1 [シング],それで、アーメスは何て言ってたの？,1 [Shing],So what was Amethyst saying?,
 0005.dat,line,5,4 [ガラド],"『ビューティフルでワンダフルなコハク。
 　マイスピリアはユーのストロングで
-　ノーブルなスピリアに惹かれているのです』",4 [ガラド],"""Beautiful and vulnerable Kohaku.
-My Spilia is Yu's Strong
-I'm attracted to noble Spilia. """
+　ノーブルなスピリアに惹かれているのです』",4 [Gall],"""Beautiful and wonderful Kohaku, my Spiria is utterly infatuated with yours, so strong and noble.""",
 0005.dat,line,8,4 [ガラド],"『ああ、だからコハク。
 　僕のワイフになってくれないか？』
-…か。あ、こりゃあダメだな",4 [ガラド],"""Oh, so Kohaku.
-Would you like to be my wife? ]
-…mosquito. Oh, this is useless"
+…か。あ、こりゃあダメだな",4 [Gall],"""That is why I, Amethyst, shall make you my bride..."" Hey, wait a minute.",
 0005.dat,line,16,3 [ベリル],"ちょっと斜め上いきすぎだよねぇ。
-いくらシングが言うにしても笑えないよ",3 [ベリル],"It's a bit too diagonally up.
-No matter how much the Sing says, I can't laugh"
-0005.dat,line,21,1 [シング],じゃあ、オレはどうすれば……,1 [シング],"Then, how do I do ..."
+いくらシングが言うにしても笑えないよ",3 [Beryl],"Woah, he’s coming on way too strong. This is no laughing matter, Shing.",
+0005.dat,line,21,1 [シング],じゃあ、オレはどうすれば……,1 [Shing],Then what should I do...,
 0005.dat,line,25,2 [カルセドニー],"惑わされるな、メテオライト。
 おまえには
-おまえだけにしかないスピリアがあるはずだ",2 [カルセドニー],"Don't be fooled, Meteorite.
-To you
-There must be a spilia that you only have"
+おまえだけにしかないスピリアがあるはずだ",2 [Chalcedony],"Don’t give in to his delusions, Meteoryte. Remember that you have a Spira capable of things no one else can do.",
 0005.dat,line,31,2 [カルセドニー],"おまえ自身の言葉を紡ぐのだ。
-コハクは、おまえにとって大切な人なんだろう？",2 [カルセドニー],"Spin your own words.
-Is Kohaku an important person for you?"
+コハクは、おまえにとって大切な人なんだろう？",2 [Chalcedony],"You should speak from the heart. You are Kohaku’s one and only, correct?",
 0005.dat,line,34,1 [シング],"うん…………そうだね……カル。ありがとう！
-オレ、やるよ！",1 [シング],"Yeah ... That's right ... Cal. thank you!
-I'll do it!"
+オレ、やるよ！",1 [Shing],"Y-yeah, that’s right! Chalcedony, thank you! I’ll do it!",
 0005.dat,line,47,3 [ベリル],"鉄は熱いうちに打て、だね！
-よぉし、それじゃコハク呼んできちゃうよ～！",3 [ベリル],"Hit iron while hot!
-Yeah, then I can call Kohaku!"
-0005.dat,line,72,0 [コハク],みんな揃ってどうしたの？,0 [コハク],What happened to everyone?
+よぉし、それじゃコハク呼んできちゃうよ～！",3 [Beryl],Strike while the iron’s blazing Shing! You gotta tell Kohaku how you feel!,Beryls a pain to write for cause her shtick is messing up words
+0005.dat,line,72,0 [コハク],みんな揃ってどうしたの？,0 [Kohaku],What are you all doing here together?,
 0005.dat,line,76,4 [ガラド],"さぁ、シング！
-腹くくれ！",4 [ガラド],"Come on, Sing!
-Get hungry!"
-0005.dat,line,80,1 [シング],う、うん！,1 [シング],No!
-0005.dat,line,87,1 [シング],コハク！,1 [シング],Kohaku!
-0005.dat,line,91,0 [コハク],なに、シング？,0 [コハク],What is a sning?
+腹くくれ！",4 [Gall],Go for it Shing! Speak your mind!,
+0005.dat,line,80,1 [シング],う、うん！,1 [Shing],I-I will!,
+0005.dat,line,87,1 [シング],コハク！,1 [Shing],Kohaku!,
+0005.dat,line,91,0 [コハク],なに、シング？,0 [Kohaku],"What’s up, Shing?",
 0005.dat,line,95,1 [シング],"あ、あの……
 オ、オ、オレ…………
-コ、コハクのこと……す…………",1 [シング],"Oh, that ...
-Oh, o, me ...
-Ko, Kohaku ..."
-0005.dat,line,99,0 [コハク],す……？,0 [コハク],vinegar……?
-0005.dat,line_speaker,104,,シング,,Singing
-0005.dat,line,104,,（やっぱり、ダメだ…！）,,"(After all, it's no good ...!)"
+コ、コハクのこと……す…………",1 [Shing],U-um... I-I was wondering if you.. your...,
+0005.dat,line,99,0 [コハク],す……？,0 [Kohaku],Mine?,
+0005.dat,line_speaker,104,,シング,,Shing,
+0005.dat,line,104,,（やっぱり、ダメだ…！）,,(Damn it!),
 0005.dat,line,109,1 [シング],"す、そう！
 コハクの大好きなミソ
-買ってきたから一緒に食べよう！",1 [シング],"Yeah, yeah!
-Kohaku's favorite miso
-I bought it so let's eat it together!"
+買ってきたから一緒に食べよう！",1 [Shing],Y-yeah! Your favorite food miso! Let’s go out and buy some so we can eat it together!,
 0005.dat,line,120,0 [コハク],"本当！？　やった！
 ちょうどマイミソ切れたところだったの！
-気が利くね、シング。ありがとう♪",0 [コハク],"For real! ? Hooray!
-I was just running out of Mimiso!
-It's a nifty, Sing. Thank you ♪"
-0005.dat,line_speaker,130,,三人,,Three people
+気が利くね、シング。ありがとう♪",0 [Kohaku],R-really!? That would be amazing! I ran out of my miso a little while ago. You’re so sweet Shing!,
+0005.dat,line_speaker,130,,三人,,三人,
 0005.dat,line,130,"2 [カルセドニー]
 3 [ベリル]
-4 [ガラド]",はぁ～…………,"2 [カルセドニー]
-3 [ベリル]
-4 [ガラド]",Huh ~ .....................
-0005.dat,line,137,3 [ベリル],もー、ホントにシングってば、だらしないなぁ,3 [ベリル],"Mmm, if you really have a singing, it's not sloppy"
+4 [ガラド]",はぁ～…………,"2 [Chalcedony]
+3 [Beryl]
+4 [Gall]",Hah～,
+0005.dat,line,137,3 [ベリル],もー、ホントにシングってば、だらしないなぁ,3 [Beryl],Really Shing? You’re so careless.,
 0005.dat,line,140,2 [カルセドニー],"メテオライト、おまえには失望したぞ。
-ここまで来て、スピリアが定まらんとは",2 [カルセドニー],"Meteorite, I was disappointed.
-Come here, Spilia is not fixed"
+ここまで来て、スピリアが定まらんとは",2 [Chalcedony],"You’ve disappointed me, Meteoryte. You’ve come this far yet, lacking in Spira.",
 0005.dat,line,143,4 [ガラド],"せっかく俺が男を磨いてやったっていうのによ。
-そりゃねぇぜ、シング",4 [ガラド],"Because I polished a man.
-That's right, Sing"
+そりゃねぇぜ、シング",4 [Gall],"I’ve whipped you into shape, but yet you’ve done this Shing.",
 0005.dat,line,147,0 [コハク],"なんだかよくわからないけど
-残念だったね、シング",0 [コハク],"I'm not sure
-I was sorry, Sing"
-0005.dat,line,154,1 [シング],がぁぁぁ～～～ん！,1 [シング],Ghoooooooooooooooooooooooooooooooooooo
+残念だったね、シング",0 [Kohaku],"I don’t know what to say. Too bad, Shing.",
+0005.dat,line,154,1 [シング],がぁぁぁ～～～ん！,1 [Shing],Ahhhhhh!!,
 0005.dat,line,159,0 [コハク],"ん～？　変なシング。
 ほら、ニンジンとキュウリと
-ダイコンがあるけど、どれにする？",0 [コハク],"Hmm? Weird syndrome.
-Look, with carrots and cucumber
-There is a radish, but which one?"
-0005.dat,line,165,1 [シング],キュウリ……,1 [シング],cucumber……
-0006.dat,speaker,0,,コハク,,Kohaku
-0006.dat,speaker,1,,シング,,Singing
-0006.dat,speaker,2,,カルセドニー,,Calcednony
-0006.dat,speaker,3,,ガラド,,Galado
-0006.dat,speaker,4,,ベリル,,Beryl
+ダイコンがあるけど、どれにする？",0 [Kohaku],"Hm? What’s gotten into you Shing? Here, carrots, cucumbers and daikons. Which one do you prefer?",
+0005.dat,line,165,1 [シング],キュウリ……,1 [Shing],Cucumbers...,
+0006.dat,speaker,0,,コハク,,Kohaku,
+0006.dat,speaker,1,,シング,,Shing,
+0006.dat,speaker,2,,カルセドニー,,Chalcedony,
+0006.dat,speaker,3,,ガラド,,Gall,
+0006.dat,speaker,4,,ベリル,,Beryl,
 0006.dat,line,1,2 [カルセドニー],"コハクのスピルーンも残りあとひとつ。
-それを取り戻せば元のコハクに戻るということか",2 [カルセドニー],"One more Kohaku Spiroon is left.
-If you regain it, it will return to the original Kohaku."
+それを取り戻せば元のコハクに戻るということか",2 [Chalcedony],"There’s only one of Kohaku’s Spiral Cores remaining。
+After that we can return Kohaku back to normal.",
 0006.dat,line,10,1 [シング],"うん。だからみんな、
-もう少しだけ、力を貸して欲しい",1 [シング],"yes. So everyone,
-I want you to help you a little more"
+もう少しだけ、力を貸して欲しい",1 [Shing],"Yeah. So everyone, I’d like it if you could help me out just a little longer.",
 0006.dat,line,14,3 [ガラド],"なぁに水くせぇこと言ってんだ！
-俺も羽の兄さんも、ハナからそのつもりだっての",3 [ガラド],"I'm saying water!
-Both me and my brother are going to do that from Hana"
+俺も羽の兄さんも、ハナからそのつもりだっての",3 [Gall],What are you talking about? Me ’n Wings have been planning to help since the start.,
 0006.dat,line,18,4 [ベリル],"あと一つ……なんだよね。
 ねぇねぇ、それじゃあさ、おっさん。
-アレ使ってみない？",4 [ベリル],"One more ... what?
-Hey, that's right, uncle.
-Why don't you use that?"
-0006.dat,line,24,3 [ガラド],アレって……、ああ、アレか？,3 [ガラド],"What is that ... oh, is that?"
-0006.dat,line,28,2 [カルセドニー],一体何の話だ？,2 [カルセドニー],What is the story?
+アレ使ってみない？",4 [Beryl],"Ah- what the- Hey hey old timer, you wanna try that out?",
+0006.dat,line,24,3 [ガラド],アレって……、ああ、アレか？,3 [Gall],That? ... Oh you meant that.,
+0006.dat,line,28,2 [カルセドニー],一体何の話だ？,2 [Chalcedony],What are you two scheming?,
 0006.dat,line,32,3 [ガラド],"ああ、実はな…
 こいつは、俺があちこち旅をしていたときに
-見つけたものなんだが……",3 [ガラド],"Oh, it's actually ...
-This guy was when I was traveling here and there
-I found it ..."
+見つけたものなんだが……",3 [Gall],"Well the truth is, I found this when I was out traveling.",
 0006.dat,line,36,4 [ベリル],"クンツァイトによるとね、
 それは擬似スピルーンって言う、
-結晶界の遺産なんだって",4 [ベリル],"According to Kunzite,
-It's a pseudo spiroon,
-It's a heritage of the crystal world"
-0006.dat,line,40,2 [カルセドニー],結晶界の遺産だと？,2 [カルセドニー],Is it a heritage of the crystal world?
+結晶界の遺産なんだって",4 [Beryl],"According to Kunzite, it’s called a synthetic Spira. It came from the Minerans.
+",
+0006.dat,line,40,2 [カルセドニー],結晶界の遺産だと？,2 [Chalcedony],From the Minerans?,
 0006.dat,line,44,3 [ガラド],"こいつを手に持って、感情をこめると、
-スピルーンとして機能するようになるらしい",3 [ガラド],"If you hold this guy in your hand and put your emotions,
-It seems to work as a spiroon"
+スピルーンとして機能するようになるらしい",3 [Gall],"You hold this in your hand and feel your emotions coming back, just like a real Spira Core.",
 0006.dat,line,47,3 [ガラド],"ただこいつは、スピルーンの働きを
 遊びながら学習する為の子どものオモチャだって
-クンツァイトは言ってたがな",3 [ガラド],"However, this guy works for the spirit
-Even a child to learn while playing
-Kunzite said"
+クンツァイトは言ってたがな",3 [Gall],But Kunzite also said that its merely a children’s toy for those to learn what Spira Cores are like.,
 0006.dat,line,51,1 [シング],"そんな凄いものなのに、オモチャ扱いって……
-一体なんでだろ？",1 [シング],"It's such a great thing, but it's a toy ...
-Why is it?"
+一体なんでだろ？",1 [Shing],"Even though it sounds terrible, it really is suppose to be used like a toy. Why would you make something like that?",
 0006.dat,line,55,4 [ベリル],"元々はオモチャでも、結晶界の遺産だよ！
 ボク達には十分すぎるほどの効果が
-あるかもしれないじゃないか",4 [ベリル],"Originally a toy, it's a crystal world heritage!
-The effect is too much for me
-There may be"
+あるかもしれないじゃないか",4 [Beryl],"It may just be a toy, but it it’s from the Minerans. Good enough for us right?",
 0006.dat,line,58,3 [ガラド],"いや、後で詳しく聞いてみたら
-色々理由があってだな――",3 [ガラド],"No, if you ask in detail later
-There are various reasons--"
-0006.dat,line,61,4 [ベリル],貸して貸して！,4 [ベリル],Lend and lend!
+色々理由があってだな――",3 [Gall],"No actually, I asked him more about it afterwards. There’s actually other reasons...",
+0006.dat,line,61,4 [ベリル],貸して貸して！,4 [Beryl],Let me see!,
 0006.dat,line,69,3 [ガラド],"あ！　おい！
-……ったく…………",3 [ガラド],"a! Hey!
-……Geez…………"
+……ったく…………",3 [Gall],H-hey! ... Ugh kids.,
 0006.dat,line,75,4 [ベリル],"ぐふふ……。あれ……？
 でも、コハクの最後のスピルーンって、
-一体なんだろう…？",4 [ベリル],"Gufufu ... that……?
-But the last spiroon of Kohaku
-What is it ...?"
-0006.dat,line,81,2 [カルセドニー],ふむ。…そういえば、何だろうな？,2 [カルセドニー],"HM. ... By the way, what is it?"
-0006.dat,line,85,4 [ベリル],シング、なんだと思う？,4 [ベリル],What do you think is the singing?
-0006.dat,line,89,1 [シング],え、オレ？,1 [シング],"Eh, me?"
+一体なんだろう…？",4 [Beryl],"Hehehe... Oh, but what about Kohakus final Spira Core? What emotion do you think it is?",
+0006.dat,line,81,2 [カルセドニー],ふむ。…そういえば、何だろうな？,2 [Chalcedony],"Hm, what’s that?",
+0006.dat,line,85,4 [ベリル],シング、なんだと思う？,4 [Beryl],"What do you think, Shing?",
+0006.dat,line,89,1 [シング],え、オレ？,1 [Shing],Me?,
 0006.dat,line,93,3 [ガラド],"ふむ……確かに。
 ソーマリンクした仲だしな。
-もちろん、わかるよなぁ、シング！",3 [ガラド],"Hmm ... certainly.
-I'm a Somalink.
-Of course, you know, the singing!"
+もちろん、わかるよなぁ、シング！",3 [Gall],It’s true... They do share a Soma Link.. So of course Shing would know!,
 0006.dat,line,98,1 [シング],"え、えーっと……そ、そうだなぁ……
-うーん……「好奇心」……とかかな！",1 [シング],"Eh, uh ... yeah, that's right ...
-Hmm ... ""Curious"" ..."
+うーん……「好奇心」……とかかな！",1 [Shing],"Umm, well.. I think it’s her curiosity!",
 0006.dat,line,107,2 [カルセドニー],"……なるほど。
-確かに好奇心は人にとって、とても大切な感情だ",2 [カルセドニー],"……I see.
-Certainly curiosity is a very important feeling for people"
+確かに好奇心は人にとって、とても大切な感情だ",2 [Chalcedony],"... I see. Its true, curiosity is a very important emotion inside all of us.",
 0006.dat,line,112,4 [ベリル],"よーし！　おーい、コハクー！
-ちょっとこっちにおいでよぉ！",4 [ベリル],"Okay! Hey, Kohaku!
-Come here a little!"
-0006.dat,line,121,0 [コハク],どうしたの、ベリル？,0 [コハク],"What happened, Beryl?"
+ちょっとこっちにおいでよぉ！",4 [Beryl],Got it! Hey! Kohaku! Over here!,
+0006.dat,line,121,0 [コハク],どうしたの、ベリル？,0 [Kohaku],What is it?,
 0006.dat,line,126,4 [ベリル],"好奇心、好奇心、好奇心…と…
-とぉー！",4 [ベリル],"Curiosity, curiosity, curiosity ...
-Tow!"
-0006.dat,line,150,4 [ベリル],コハク……？,4 [ベリル],Kohaku ...?
+とぉー！",4 [Beryl],"Curiosity, curiosity... ah!",
+0006.dat,line,150,4 [ベリル],コハク……？,4 [Beryl],Kohaku?,
 0006.dat,line,159,0 [コハク],"ああ、もう、耐えられない！
 わたし、ずっと気になってたことがあるの！
-だから、聞いちゃうよ！",0 [コハク],"Oh, I can't stand it anymore!
-I've always been worried!
-So I'll ask you!"
+だから、聞いちゃうよ！",0 [Kohaku],Ah I can’t stand it anymore! I got to say something so please listen to me.,
 0006.dat,line,169,0 [コハク],"カルセドニーは、なんでおかっぱなの？
 ベリルは、どうしてかぶりものが好きなの？
-ガラドは、なんで髪が長いの!?",0 [コハク],"Why is Calcedney cool?
-Why does Beryl like covering?
-Galado is a long hair!?"
+ガラドは、なんで髪が長いの!?",0 [Kohaku],"Chalcedony, why is your hair like that? Beryl, why do you like that hat so much? Gall, why is your hair so long?",
 0006.dat,line,178,2 [カルセドニー],"この髪型は子どもの頃から
 そうだったからな……。
-特に、これといった理由は……",2 [カルセドニー],"This hairstyle has been around since childhood
-That's right ...
-In particular, the reason for this is ..."
+特に、これといった理由は……",2 [Chalcedony],I’ve had this hairstyle since I was a child. And in particular the reason is...,
 0006.dat,line,182,4 [ベリル],"ボクも気がついたら好きだったからなぁ。
-改めて聞かれると、困るよ",4 [ベリル],"I also liked me if I noticed.
-I'm in trouble when asked again"
+改めて聞かれると、困るよ",4 [Beryl],"Cause I noticed it and liked it. If you asked me in particular why, I’d be stumped.",
 0006.dat,line,186,3 [ガラド],"髪が長い理由ねぇ。
-そいつを語るには、ちょいと時間が足りないぜ",3 [ガラド],"I don't have a long hair.
-To talk about it, I don't have enough time"
+そいつを語るには、ちょいと時間が足りないぜ",3 [Gall],I don’t have enough time to sit down and explain why I grew my hair out.,
 0006.dat,line,190,0 [コハク],"もう、みんな答えになってないよ。
-ちゃんと答えて！",0 [コハク],"Everyone isn't the answer anymore.
-Answer properly!"
-0006.dat,line,195,2 [カルセドニー],こ、これは一体……？,2 [カルセドニー],This is this ...?
+ちゃんと答えて！",0 [Kohaku],"Ugh, you guys aren’t telling me nothing! Explain more!",
+0006.dat,line,195,2 [カルセドニー],こ、これは一体……？,2 [Chalcedony],What in the...,
 0006.dat,line,199,3 [ガラド],"こいつはな、スピルーンを
 単純に取り込むだけじゃなく、
-人格にも影響を与えちまうんだってよ",3 [ガラド],"This guy, Spiroon
-Not just incorporating it
-It will affect your personality"
-0006.dat,line,202,3 [ガラド],ある程度時間が経てば、元に戻るらしいが,3 [ガラド],"It seems that after a certain amount of time, it will return"
+人格にも影響を与えちまうんだってよ",3 [Gall],"This Spira Core is not just giving her an emotion, it’s affecting her entire personality.",
+0006.dat,line,202,3 [ガラド],ある程度時間が経てば、元に戻るらしいが,3 [Gall],"Over time, she should settle down.",
 0006.dat,line,206,1 [シング],"び、びっくりしたー。あれ？
-オレ、なにも聞かれてないけど……",1 [シング],"And I was surprised. that?
-I haven't been asked anything ..."
+オレ、なにも聞かれてないけど……",1 [Shing],W-woah! Huh? Did I hear something just now?,
 0006.dat,line,212,4 [ベリル],"ねぇ、コハク。シングには聞かないの？
 ボクたちよりも気になることが
-たくさんあるんじゃない？",4 [ベリル],"Hey, Kohaku. Don't you ask the Sing?
-Something more worrisome than we guys
-Isn't there a lot?"
+たくさんあるんじゃない？",4 [Beryl],"Hey hey Kohaku, why don’t you pester Shing? I’m sure you got more important questions to ask him than to us.",
 0006.dat,line,216,0 [コハク],"え、えっと、その……
-シングはいいかなって……",0 [コハク],"Eh, uh, that ...
-I wonder if the singing is good ..."
-0006.dat,line,220,3 [ガラド],おいおい、こりゃあまさか……,3 [ガラド],"Hey, this is no ..."
+シングはいいかなって……",0 [Kohaku],Um.. well.. Shing I thought...,
+0006.dat,line,220,3 [ガラド],おいおい、こりゃあまさか……,3 [Gall],"Wow, what’s with her.",
 0006.dat,line,226,2 [カルセドニー],"メテオライト、とても言いづらいのだが……
-おまえには、興味がないということではないか？",2 [カルセドニー],"Meteorite is very hard to say, but ...
-Doesn't you mean you're not interested?"
-0006.dat,line,232,1 [シング],そ、そんなぁ～～～～!?,1 [シング],That's right ~~~~!?
+おまえには、興味がないということではないか？",2 [Chalcedony],"Meteoryte, isn’t there some things you need to say.. or are you not interested?",
+0006.dat,line,232,1 [シング],そ、そんなぁ～～～～!?,1 [Shing],I-it’s not like that!,
 0006.dat,line,239,0 [コハク],"そ、そんなことないよ!!
-わたし、シングのこともっといっぱい知りたい！",0 [コハク],"Well, that's not the case !!
-I want to know more about the singing!"
-0006.dat,line,243,0 [コハク],でも、聞くの恥ずかしいんだもん……,0 [コハク],But it's embarrassing to hear ...
-0006.dat,line,247,1 [シング],恥ずかしい!?,1 [シング],I'm ashamed!?
+わたし、シングのこともっといっぱい知りたい！",0 [Kohaku],It’s not! I-I want to know even more about Shing!,
+0006.dat,line,243,0 [コハク],でも、聞くの恥ずかしいんだもん……,0 [Kohaku],But... I’m kinda embarrassed to hear it...,
+0006.dat,line,247,1 [シング],恥ずかしい!?,1 [Shing],Embarrassed?!,
 0006.dat,line,253,0 [コハク],"ああ、今のは違うの！
-わ、忘れてぇ！",0 [コハク],"Oh, now it's different!
-Wow, forget!"
+わ、忘れてぇ！",0 [Kohaku],"Yeah, it’s different this time! I just forgot why!",
 0006.dat,line,265,4 [ベリル],"わー……
-まーたふたりの世界が始まっちゃったよ……",4 [ベリル],"Oh……
-The world of the two has begun ..."
+まーたふたりの世界が始まっちゃったよ……",4 [Beryl],"Well now, it looks like it’s the start of something between the two of them again.",
 0006.dat,line,270,2 [カルセドニー],"と、とりあえず、
 この空気をなんとか出来ないか？
-妙な気恥ずかしさを覚える",2 [カルセドニー],"For the time being,
-Can you manage this air?
-I feel strange embarrassment"
+妙な気恥ずかしさを覚える",2 [Chalcedony],"A-anyway, why don’t the two of you get some fresh air? You’ll remember why you feel embarrassed.",
 0006.dat,line,274,3 [ガラド],"思念を集中すれば、一度中に入ってからでも
-別の感情に変えることも可能らしいぜ？",3 [ガラド],"If you concentrate your thoughts, even once you enter the inside
-It seems that it is possible to change to another emotion, right?"
+別の感情に変えることも可能らしいぜ？",3 [Gall],"Once they’re outside, if they can focus on their feelings, maybe it’s a good possibility they’ll change. ",
 0006.dat,line,278,2 [カルセドニー],"なるほど。
 では、一先ず当たり障りのないスピルーンに……
-…はぁっ！",2 [カルセドニー],"I see.
-Then, for the bland spiroon for the first time ...
-... Huh!"
+…はぁっ！",2 [Chalcedony],I see. Then let us give her the Spiral Core.,
 0006.dat,line,299,0 [コハク],"みなさん、いつもわたしのために
-体を張ってくださって、ありがとう",0 [コハク],"Everyone, always for me
-Thank you for your body"
+体を張ってくださって、ありがとう",0 [Kohaku],"Everyone, thank you very much for looking out for me.",
 0006.dat,line,302,0 [コハク],"わたしもみなさんのために
 なにか出来たらよいのですが
-あまり力になれなくて、ごめんなさい",0 [コハク],"For me
-I wish I could do something
-I'm sorry I couldn't help so much"
+あまり力になれなくて、ごめんなさい",0 [Kohaku],"If only I was able to do something for you all in return. I can’t be of much help in my current state, I apologize.",
 0006.dat,line,306,2 [カルセドニー],"「気品」のスピルーンだ。
-これなら特におかしなことにもなるまい",2 [カルセドニー],"It's a ""elegant"" spiroon.
-This will not be particularly strange"
+これなら特におかしなことにもなるまい",2 [Chalcedony],"It’s the shard of grace.
+This one is making her act particularly strange.",
 0006.dat,line,310,4 [ベリル],"うわわ、しおらしいコハクだ。
-こういうの、なんだか新鮮だなぁ",4 [ベリル],"Wow, it's a shy Kohaku.
-It's kind of fresh like this"
-0006.dat,line,313,2 [カルセドニー],パライバさまには遠いが、いい感じではないか,2 [カルセドニー],"It's far for Palai, but it feels good"
+こういうの、なんだか新鮮だなぁ",4 [Beryl],"Oh wow, you’re so ladylike Kohaku. It’s a very clean look for you.",
+0006.dat,line,313,2 [カルセドニー],パライバさまには遠いが、いい感じではないか,2 [Chalcedony],"Not as refined as Empress Paraiba, but it’s not bad.",
 0006.dat,line,318,0 [コハク],"はっ!?　そうですわ、わたしったら
 お茶も淹れずに立ち話なんて……。
-今、用意しますね",0 [コハク],"Huh!? That's right, if I
-Standing without brewing tea ...
-I'm preparing it now"
+今、用意しますね",0 [Kohaku],Oh I see! Then I shall brew some tea while we chat.,
 0006.dat,line,323,0 [コハク],"お茶請けは……ミソづくしにしましょう！
-きっと、あいますわ",0 [コハク],"Tea contract ... let's make a miso!
-I'm sure you'll meet"
+きっと、あいますわ",0 [Kohaku],Then to go along with the tea... various flavors of miso! I’m sure it’ll work well.,
 0006.dat,line,331,1 [シング],"おかしなことになってきたよ!?
-カルセドニー!!",1 [シング],"It's getting strange!?
-Calcednony !!"
+カルセドニー!!",1 [Shing],W-what are you saying?! Chalcedony!!,
 0006.dat,line,335,2 [カルセドニー],"な、なぜそこでミソになるのだ？
 そこは女性が好みそうな、スコーンなり
-ケーキなりがあるだろうに……",2 [カルセドニー],"Well, why do you get there?
-It's a scone that women seem to like
-I guess there will be a cake ..."
-0006.dat,line,339,3 [ガラド],嬢ちゃんのミソ好きは、根っからってことかねぇ,3 [ガラド],Miso -chan's lover loves it from the root.
+ケーキなりがあるだろうに……",2 [Chalcedony],Why on earth is she suggesting miso? Do women not enjoy pairing tea with scone and cake?,Might replace scone with something else. Maybe I'm uncultured but I had no idea what it was until I googled it.
+0006.dat,line,339,3 [ガラド],嬢ちゃんのミソ好きは、根っからってことかねぇ,3 [Gall],"She loves miso, so it’s in her nature.",
 0006.dat,line,343,0 [コハク],"でしたら、ミソケーキと、
-ミソスコーンに致しましょうか？",0 [コハク],"If so, with miso cake
-Shall we use Misoscone?"
+ミソスコーンに致しましょうか？",0 [Kohaku],The how about miso cake and miso scone?,
 0006.dat,line,347,1 [シング],"何も解決していないよ！
 とりあえず、ミソづくしから離れないと……！
-何でもいいから！　えいっ！",1 [シング],"Nothing has been solved!
-For the time being, I have to leave the miso ...!
-Anything is fine! Eh!"
-0006.dat,line,368,0 [コハク],シ・ン・グ♪,0 [コハク],Shi N G ♪
-0006.dat,line,373,1 [シング],え、え？　ど、どうしたの、コハク？,1 [シング],"yes? What happened, Kohaku?"
+何でもいいから！　えいっ！",1 [Shing],"We haven’t decided on anything yet. Anyway, we don’t need to seperate the miso, anything’s fine!",
+0006.dat,line,368,0 [コハク],シ・ン・グ♪,0 [Kohaku],Shi・ng ♪,
+0006.dat,line,373,1 [シング],え、え？　ど、どうしたの、コハク？,1 [Shing],Eh? W-what’s up Kohaku?,
 0006.dat,line,377,0 [コハク],"ねぇ。
-……一緒にあ、そ、ぼ……？",0 [コハク],"Hey.
-...... together, oh, that ...?"
-0006.dat,line,381,4 [ベリル],な、こ、これは……,4 [ベリル],"Well, this is ..."
+……一緒にあ、そ、ぼ……？",0 [Kohaku],"Hey, can we... play?",Given the context of the rest of the dialogue she might be saying something more scandalous but it could just be just plain old 遊ぶ
+0006.dat,line,381,4 [ベリル],な、こ、これは……,4 [Beryl],What... is she...,
 0006.dat,line,385,1 [シング],"い、いや！
-とっさのことだったから、オレも何がなんだか！",1 [シング],"No!
-It was a bit of a thing, so what about me!"
-0006.dat,line,389,3 [ガラド],ふーむ。これはおそらく……,3 [ガラド],Hmm. This is probably ...
-0006.dat,line,393,2 [カルセドニー],おそらく？,2 [カルセドニー],probably?
-0006.dat,line,397,3 [ガラド],……お色気のスピルーンだな,3 [ガラド],...... It's a spiritual spirit
-0006.dat,line,402,4 [ベリル],な!?,4 [ベリル],What!?
+とっさのことだったから、オレも何がなんだか！",1 [Shing],"N-no, it’s not what you’re thinking! It was spur of the moment!",
+0006.dat,line,389,3 [ガラド],ふーむ。これはおそらく……,3 [Gall],"Hmph, sure you were.",
+0006.dat,line,393,2 [カルセドニー],おそらく？,2 [Chalcedony],You’re sure?,
+0006.dat,line,397,3 [ガラド],……お色気のスピルーンだな,3 [Gall],... it’s the sex appeal Spira Core.,There could probably be a better word in here for お色気 but oh well
+0006.dat,line,402,4 [ベリル],な!?,4 [Beryl],Wha-?!,
 0006.dat,line,408,2 [カルセドニー],"メ、メテオライト！　貴様！
 そんな破廉恥なスピリアの持ち主だったとは！
-見損なったぞ！",2 [カルセドニー],"Me, Meteorite! You!
-He was the owner of such a shameful Spilia!
-I missed it!"
+見損なったぞ！",2 [Chalcedony],M-Meteoryte! I can’t believe you have such a shameless Spira! I misjudged you!,
 0006.dat,line,412,1 [シング],"そ、そんな！
 いや、さっきも言ったけど、とっさだから！
-オレの意思じゃない！　事故だよこれは！",1 [シング],"That's right!
-No, I just said, but it's a bit!
-Not my will! This is an accident!"
+オレの意思じゃない！　事故だよこれは！",1 [Shing],"W-ait! Listen to me! This isn’t what I wanted, you got it all wrong!",
 0006.dat,line,416,4 [ベリル],"とっさだから本心が出たんだろー！
-このケダモノー！",4 [ベリル],"I guess it came out!
-This Kedamono!"
+このケダモノー！",4 [Beryl],"So that’s what you meant by spur of the moment, you animal!",
 0006.dat,line,420,3 [ガラド],"まぁまぁ。シングを責めるなって。
-若い男なら、仕方のないことだぜ",3 [ガラド],"Well. Be blamed for the singing.
-If you're a young man, it's inevitable"
-0006.dat,line,424,0 [コハク],うふふ、シングったら……かわいい,0 [コハク],"Ufufu, if you have a while ... cute"
-0006.dat,line,427,1 [シング],こ、コハク…………,1 [シング],Kohaku ...
-0006.dat,line,430,0 [コハク],ねぇ、シング、一緒に……遊ぼう……？,0 [コハク],"Hey, Sing, together ... let's play ...?"
-0006.dat,line_speaker,434,,シング,,Singing
+若い男なら、仕方のないことだぜ",3 [Gall],"Now now. Don’t blame Shing. He’s just a guy, he can’t help it.",
+0006.dat,line,424,0 [コハク],うふふ、シングったら……かわいい,0 [Kohaku],"Hehe, Shing you’re adorable.",
+0006.dat,line,427,1 [シング],こ、コハク…………,1 [Shing],Ko... Kohaku...,
+0006.dat,line,430,0 [コハク],ねぇ、シング、一緒に……遊ぼう……？,0 [Kohaku],"Hey, Shing. Do you.. want to play a game with me?",
+0006.dat,line_speaker,434,,シング,,Shing,
 0006.dat,line,434,,"（うう、でも、これはこれで……
-　ちょっぴり……幸せかも……）",,"(Uh, but this is this ...
-A little ... maybe happy ...)"
-0006.dat,line,437,0 [コハク],一緒に……,0 [コハク],together……
-0006.dat,line,442,0 [コハク],無限滅殺オニごっこしよう♪,0 [コハク],Let's pretend to be murderous oni ♪
-0006.dat,line,448,1 [シング],やっぱり全然幸せじゃないかもーーーー！,1 [シング],After all it may not be happy at all!
+　ちょっぴり……幸せかも……）",,"(Uhh, if this is what I think it is.. I might be getting excited here...)",
+0006.dat,line,437,0 [コハク],一緒に……,0 [Kohaku],Together with me...,
+0006.dat,line,442,0 [コハク],無限滅殺オニごっこしよう♪,0 [Kohaku],Let’s play an exciting game of tag♪,
+0006.dat,line,448,1 [シング],やっぱり全然幸せじゃないかもーーーー！,1 [Shing],That’s not exciting at all!!,
 0006.dat,line,459,0 [コハク],"つーかまーえたっ♪
-無限！　滅！　殺！",0 [コハク],"Tsukamae ♪
-infinite! Destroy! Kill!"
-0006.dat,line,462,1 [シング],ぎゃぁぁぁぁぁぁぁぁぁぁ！,1 [シング],Gya ぁ ぁ ぁ ぁ ぁ ぁ ぁ ぁ ぁ ぁ ぁ
-0006.dat,line,482,1 [シング],や、やっと元に戻った……,1 [シング],"No, I finally returned ..."
+無限！　滅！　殺！",0 [Kohaku],Here～ I～ go～ I’m! Gonna! Kick! Your! Ass!,Not what she says but it's funnier than just straight translating it and gets the general point across
+0006.dat,line,462,1 [シング],ぎゃぁぁぁぁぁぁぁぁぁぁ！,1 [Shing],Ahhhh!,
+0006.dat,line,482,1 [シング],や、やっと元に戻った……,1 [Shing],S-she’s back to normal..,
 0006.dat,line,485,2 [カルセドニー],"どうやら遊び疲れたようだな。
-眠ってしまった",2 [カルセドニー],"Apparently I'm tired of playing.
-I fell asleep"
-0006.dat,line,489,1 [シング],オレも、あやうく意識が飛びそうだったよ……,1 [シング],I was almost flying consciousness ...
+眠ってしまった",2 [Chalcedony],She’s worn out from playing and knocked herself out.,
+0006.dat,line,489,1 [シング],オレも、あやうく意識が飛びそうだったよ……,1 [Shing],I’m barely awake myself...,
 0006.dat,line,493,4 [ベリル],"結局さ、コハクの最後のスピルーンは
-なんなんだろうね？",4 [ベリル],"After all, the last spiroon of Kohaku
-What is it?"
+なんなんだろうね？",4 [Beryl],"After all that, I wonder what Kohakus final Spira Core is going to be like?",
 0006.dat,line,497,2 [カルセドニー],"「好奇心」「気品」「お色気」
-どれもピンとこなかったな",2 [カルセドニー],"""Curious"", ""elegant"", ""sex appeal""
-None of them came in"
+どれもピンとこなかったな",2 [Chalcedony],"""Curiosity"", ""Grace"", ""Sex Appeal"".
+I don’t really understand it all.",
 0006.dat,line,501,1 [シング],"やっぱり、
 ちゃんと探さないといけないってことなんだよ。
-偽物なんかじゃダメなんだ",1 [シング],"on second thoughts,
-You have to find it properly.
-It's useless if it's fake"
+偽物なんかじゃダメなんだ",1 [Shing],I knew. We have to look for the proper ones. Fake stuff doesn’t cut it.,
 0006.dat,line,505,4 [ベリル],"うーん。でも、ゲージュツカとしては、
 わからないのはちょっと悔しいなぁ……
-こういうのはさ、センスでピンと来ると思うし",4 [ベリル],"Hmm. But as a gejitsuka
-I'm a little frustrated to not understand ...
-I think this kind of thing will come with a sense"
+こういうのはさ、センスでピンと来ると思うし",4 [Beryl],"Not knowing it is leaving me frustrated. 
+That kind of thing I think is about your sense of style.",
 0006.dat,line,518,3 [ガラド],"ま、最後のスピルーンはきっと、
-「愛」だろうが……",3 [ガラド],"Well, the last spiroon will surely
-It would be ""love"" ..."
+「愛」だろうが……",3 [Gall],"Well this is certainly the last Spiral Core, ""Love"".",
 0006.dat,line,522,3 [ガラド],"ガキどもにはまだ良くわからねぇだろうし、
 ……年取ると、
-ちっとこっぱずかしくて言えねぇやな",3 [ガラド],"I don't know yet the kids,
-...... When I get older
-I can't say it"
-0007.dat,speaker,0,,ガラド,,Galado
+ちっとこっぱずかしくて言えねぇやな",3 [Gall],"Kids don’t know anything about it. And when you grow old, you might say stuff that’s embarrassing",
+0007.dat,speaker,0,,ガラド,,Gall,
 0007.dat,line,0,0 [ガラド],"まぁ、なんだかんだで今回の件は
-失敗に終っちまったみてぇだが…",0 [ガラド],"Well, somehow this matter is
-I think it's over a failure ..."
+失敗に終っちまったみてぇだが…",0 [Gall],"Well, it looks like your efforts ended in failure.",I think all of these skits are ones directed at the player under certain conditions?
 0007.dat,line,4,0 [ガラド],"このまま自分を磨いていけば、
-良い事があるかもしれねぇぞ",0 [ガラド],"If you polish yourself as it is,
-There may be good things"
+良い事があるかもしれねぇぞ",0 [Gall],"Keep polishing your skills, you’ll see something good come out of it.",
 0007.dat,line,8,0 [ガラド],"さっそくだが、どうやら嬢ちゃんが
 一緒に戦ってくれるようになったみたいだぜ！
-仲良くやんな！",0 [ガラド],"Immediately, apparently Miss -chan
-It looks like you've started fighting together!
-Don't get along!"
+仲良くやんな！",0 [Gall],"Looks like you’re combat ready. You got a girl waiting on you, so hop to it.",
 0007.dat,line,12,0 [ガラド],"Ｌボタンを押すと、交替できるからな。
-お互い、助け合って旅をするんだぜ",0 [ガラド],"Press the L button to change.
-We will help each other and travel"
+お互い、助け合って旅をするんだぜ",0 [Gall],Push the L button and you can change your allies. We’re all helping out together on this journey.,
 0007.dat,line,15,0 [ガラド],"さらに、
-ショップの商品も少し追加されたみたいだ",0 [ガラド],"moreover,
-It seems that a little shop has been added"
+ショップの商品も少し追加されたみたいだ",0 [Gall],And don’t forget to try to and stop by the shop if you need a boost.,
 0007.dat,line,19,0 [ガラド],"こうやって進んでいくうちに、
-ちょっとしたご褒美もあるかもしれねぇ",0 [ガラド],"As we proceed like this,
-There may be some rewards"
+ちょっとしたご褒美もあるかもしれねぇ",0 [Gall],"And as you keep advancing, you might be rewarded with a prize.",
 0007.dat,line,24,0 [ガラド],"ま、気が向いたら、もっと強くなって、
 先に進んでみな、って事だ。
-──頑張れよ",0 [ガラド],"Well, if you are interested, get stronger
-Go ahead.
-── Good luck"
-0008.dat,speaker,0,,ヒスイ,,Jade
-0008.dat,speaker,1,,イネス,,Ines
+──頑張れよ",0 [Gall],"And if you feel like it, once you get stronger, come back and redo already threaded ground. Or something. Good luck.",
+0008.dat,speaker,0,,ヒスイ,,Hisui,
+0008.dat,speaker,1,,イネス,,Ines,
 0008.dat,line,0,1 [イネス],"はーい！
 ここまで頑張ったご褒美に、
-日々寧日からお届け物でーす♪",1 [イネス],"Yes!
-For a reward that worked hard so far
-It is a delivery from the day day ♪"
+日々寧日からお届け物でーす♪",1 [Ines],Alright! You managed to win a prize! I’ll deliver it to you right away♪,
 0008.dat,line,3,1 [イネス],"タイトル画面に戻ると……
 ちょっとしたお話が見れるようになったから、
-是非、楽しんでみてね！",1 [イネス],"When you return to the title screen ...
-I can see a little story, so
-Please enjoy it!"
-0008.dat,line,6,0 [ヒスイ],まぁ、ちょっとしたお祝いみたいなもんだ,0 [ヒスイ],"Well, it's like a little celebration"
+是非、楽しんでみてね！",1 [Ines],"Now if you go back to the title screen, you’ll be able to see it. With that, enjoy yourselves!",
+0008.dat,line,6,0 [ヒスイ],まぁ、ちょっとしたお祝いみたいなもんだ,0 [Hisui],Well I guess I should congratulate you. ,
 0008.dat,line,9,0 [ヒスイ],"お前もやっと、男ってのがどういうもんか
-分かってきたみてぇだからな",0 [ヒスイ],"At last, what is a man?
-It's because I understand"
-0008.dat,line,13,1 [イネス],あら？　ヒスイがそれを言えるのかしら？,1 [イネス],Oh? Is it possible for Jade to say that?
+分かってきたみてぇだからな",0 [Hisui],"I think maybe finally, you’re understanding what it means to become a man.",
+0008.dat,line,13,1 [イネス],あら？　ヒスイがそれを言えるのかしら？,1 [Ines],"Oh? What made you say that, Hisui?",
 0008.dat,line,17,0 [ヒスイ],"おいおいイネス！
-俺がこいつよりヘタレなわけねぇだろうがよ",0 [ヒスイ],"Hey Ines!
-I guess I'm not more messy than this guy"
+俺がこいつよりヘタレなわけねぇだろうがよ",0 [Hisui],Wait Ines! I’m still a better dude than he is!,
 0008.dat,line,21,1 [イネス],"ふふっ。意地張っちゃって…。
-子どもなんだから",1 [イネス],"Fufu. I'm stubborn ...
-Because it's a child"
+子どもなんだから",1 [Ines],"Aw, you’re so stubborn, it’s like a child really.",
 0008.dat,line,26,1 [イネス],"さてと…あなたに伝えておく事があるの。
-ここから先は、本当にストイックな旅になるわよ",1 [イネス],"Well ... I have something to tell you.
-From here on, it will be a really stoic journey"
+ここから先は、本当にストイックな旅になるわよ",1 [Ines],"Now then, I have something to tell you. From here on out, things are only going to get tougher on this journey.",
 0008.dat,line,30,0 [ヒスイ],"先に進んでも、
 特にオイシイ何かがあるわけじゃねぇ。
-言っちまえば、単なる意地の張り合いだ",0 [ヒスイ],"Even if you go ahead
-There is no particular Oishii.
-In other words, it's just a tact"
+言っちまえば、単なる意地の張り合いだ",0 [Hisui],"Even if we move on, there’s nothing particularly desirable about it. It’s just a simple rivalry.",idk
 0008.dat,line,34,0 [ヒスイ],"それでもよけりゃあ、先に進んでみな。
-進むも退くも、おまえ次第さ",0 [ヒスイ],"Still, let's go ahead.
-Going or retreating, it depends on you"
-0008.dat,line,38,1 [イネス],それじゃあ…頑張ってね！,1 [イネス],Then ... do your best!
-0009.dat,speaker,0,,ヒスイ,,Jade
+進むも退くも、おまえ次第さ",0 [Hisui],"Well then it’s up to you, whether you want to move forward or go back.",
+0008.dat,line,38,1 [イネス],それじゃあ…頑張ってね！,1 [Ines],And good luck out there!,
+0009.dat,speaker,0,,ヒスイ,,Hisui,
 0009.dat,line,0,0 [ヒスイ],"なんつーか、お前を見てると、
-俺も負けてらんねーなって気になるぜ…！",0 [ヒスイ],"Somehow, when you look at you
-I'm worried that I can't lose ...!"
-0010.dat,speaker,0,,イネス,,Ines
+俺も負けてらんねーなって気になるぜ…！",0 [Hisui],"Just you watch, I’m not gonna lose too!",
+0010.dat,speaker,0,,イネス,,Ines,
 0010.dat,line,0,0 [イネス],"おめでとう。
 だいぶ、男らしくなってきたんじゃない？
-もーっと、頑張ってね！",0 [イネス],"Congrats.
-Isn't it getting masculine?
-Do your best!"
-0011.dat,speaker,0,,ヒスイ,,Jade
+もーっと、頑張ってね！",0 [Ines],"Congrats, you’re really becoming manly now aren’t you? Now keep at it!",
+0011.dat,speaker,0,,ヒスイ,,Hisui,
 0011.dat,line,0,0 [ヒスイ],"すっげえなおまえ…まさかここまでやるとはよ。
-まだ、やんのか？　よし、行ってこい！",0 [ヒスイ],"You're so amazing ... I'm going to do it so far.
-Still, is it? Alright, go!"
-0012.dat,speaker,0,,イネス,,Ines
+まだ、やんのか？　よし、行ってこい！",0 [Hisui],"Wow, I can’t believe you did it. Are you still up for more? Alright let’s go!",
+0012.dat,speaker,0,,イネス,,Ines,
 0012.dat,line,0,0 [イネス],"ふふふ。ここまで来たんだもの。
-まだまだ、行くのよね？　きっと",0 [イネス],"Fufufu. What has come so far.
-Are you still going? surely"
-0013.dat,speaker,0,,ペリドット,,Peridot
+まだまだ、行くのよね？　きっと",0 [Ines],"Hehe, we’ve come this far, so you’re gonna keep right? I’m sure.",
+0013.dat,speaker,0,,ペリドット,,Peridot,
 0013.dat,line,0,0 [ペリドット],"しゃーない。ちょっとだけ褒めてやるよ。
-あんた、やるじゃん！",0 [ペリドット],"I don't have it. I'll praise a little.
-You're doing it!"
-0014.dat,speaker,0,,バイロクス,,Byrox
-0014.dat,line,0,0 [バイロクス],まさかこれほどまでとはな…。,0 [バイロクス],No way so much ...
-0015.dat,speaker,0,,アーメス,,Ames
+あんた、やるじゃん！",0 [Peridot],"Ah well, I guess I can spare a compliment. You did it.",
+0014.dat,speaker,0,,バイロクス,,Pyrox,
+0014.dat,line,0,0 [バイロクス],まさかこれほどまでとはな…。,0 [Pyrox],To believe you did this much...,
+0015.dat,speaker,0,,アーメス,,Amethyst,
 0015.dat,line,0,0 [アーメス],"ビューティフル！　アンド、ワンダホー！
-君は、世界で二番目の勇者だね！",0 [アーメス],"beautiful! Ando, ​​Wanda Ho!
-You are the second hero in the world!"
-0016.dat,speaker,0,,ヒスイ,,Jade
+君は、世界で二番目の勇者だね！",0 [Amethyst],Beautiful! And! Wonderful! You are the second bravest person in the world!,
+0016.dat,speaker,0,,ヒスイ,,Hisui,
 0016.dat,line,0,0 [ヒスイ],"いよぉ、久しぶりだな。元気だったか？
 へへっ、まだまだって顔してやがるな！
-──よし、行ってこい！",0 [ヒスイ],"Well, it's been a long time. How were you?
-Hey, don't look at it yet!
-Okay, go!"
-0017.dat,speaker,0,,イネス,,Ines
+──よし、行ってこい！",0 [Hisui],"We meet again huh? How ya doing? Hehe, I can tell by that look on your face that you’re still not done. Now let’s go!",
+0017.dat,speaker,0,,イネス,,Ines,
 0017.dat,line,0,0 [イネス],"さすがに、びっくりしちゃうわね。
-ここまで育っちゃうなんて。",0 [イネス],"As expected, I'm surprised.
-I will grow up so far."
-0018.dat,speaker,0,,クンツァイト,,Kunzite
+ここまで育っちゃうなんて。",0 [Ines],"As expected you surprised me! Come on, there’s still more to go.",
+0018.dat,speaker,0,,クンツァイト,,Kunzite,
 0018.dat,line,0,0 [クンツァイト],"もはやお前のパワーは、
-１６万８千ギガスゴに達している",0 [クンツァイト],"The power of you is no longer
-It has reached 168,000 Gigasugo"
-0019.dat,speaker,0,,リチア,,Lithia
+１６万８千ギガスゴに達している",0 [Kunzite],Your power levels have reached 168000 units.,
+0019.dat,speaker,0,,リチア,,Lithia,
 0019.dat,line,0,0 [リチア],"ソーマの秘めた無限の可能性…
-こういうことなのですね、フローラ姉さま…",0 [リチア],"Infinite possibility of Soma's hidden ...
-That's what this is, Flora sister ..."
-0020.dat,speaker,0,,ペリドット,,Peridot
-0020.dat,line,0,0 [ペリドット],ったく。呆れるくらい、頑張るやつだね……,0 [ペリドット],Geez. It's a guy who works hard enough to be amazed ...
-0021.dat,speaker,0,,バイロクス,,Byrox
+こういうことなのですね、フローラ姉さま…",0 [Lithia],"Your Soma has limitless potential hiding with you. I wonder what this means, Fluora...",
+0020.dat,speaker,0,,ペリドット,,Peridot,
+0020.dat,line,0,0 [ペリドット],ったく。呆れるくらい、頑張るやつだね……,0 [Peridot],"Geez, that’s preposterous. You need to keep going.",
+0021.dat,speaker,0,,バイロクス,,Pyrox,
 0021.dat,line,0,0 [バイロクス],"うむ。ここまできた記念に、
-ひとつ、刺繍入りのエプロンでも作ってやろう。",0 [バイロクス],"Um. To commemorate here
-Let's make one embroidery apron."
-0022.dat,speaker,0,,アーメス,,Ames
+ひとつ、刺繍入りのエプロンでも作ってやろう。",0 [Pyrox],Yes. This calls for celebration. I’ve knitted an apron for you.,best househusband
+0022.dat,speaker,0,,アーメス,,Amethyst,
 0022.dat,line,0,0 [アーメス],"アンビリーバボー…
-君は、世界で二番目の勇者ではなかった…",0 [アーメス],"Ambilly Babo ...
-You were not the second brave in the world ..."
-0022.dat,line,7,0 [アーメス],宇宙で二番目の勇者と！,0 [アーメス],With the second hero in space!
-0023.dat,speaker,0,,ヒスイ,,Jade
+君は、世界で二番目の勇者ではなかった…",0 [Amethyst],"Unbelievable, you may not be the second most bravest person in the world...",
+0022.dat,line,7,0 [アーメス],宇宙で二番目の勇者と！,0 [Amethyst],You’re the second most bravest in the universe!,
+0023.dat,speaker,0,,ヒスイ,,Hisui,
 0023.dat,line,0,0 [ヒスイ],"またまた、久しぶりだな。
 ここまで来たって事は、最後まで行く気なんだろ？
-行けよ！　骨は拾ってやるぜ！",0 [ヒスイ],"It's been a long time again.
-Isn't it going to go to the end?
-Go! I'll pick up my bones!"
-0024.dat,speaker,0,,イネス,,Ines
+行けよ！　骨は拾ってやるぜ！",0 [Hisui],"We met again. We’re still not there yet, lets keep going till the end. I’ll be sure to hold your funeral.",
+0024.dat,speaker,0,,イネス,,Ines,
 0024.dat,line,0,0 [イネス],"あなたは、日々寧日で最高の従業員よ。
 どんな物でも、どこまでも。
-あなたなら届けられるって思えるわ",0 [イネス],"You are the best employees on the day.
-Anything, everywhere.
-I think you can deliver it"
-0025.dat,speaker,0,,ヒスイ,,Jade
+あなたなら届けられるって思えるわ",0 [Ines],"You’re the best employee ever! No matter what kind of merchandise it is, you can deliver it.",
+0025.dat,speaker,0,,ヒスイ,,Hisui,
 0025.dat,line,0,0 [ヒスイ],"まだだ！　まだくじけるんじゃねぇぞ。
-見せてみな！　お前のスピリアをよ！",0 [ヒスイ],"Still! I'm not going to be overwhelmed.
-Show me! Your Spilia!"
-0026.dat,speaker,0,,イネス,,Ines
-0026.dat,line,0,0 [イネス],どんな想いが、あなたをここまで来させたのか…,0 [イネス],What kind of feelings have you come so far ...
-0027.dat,speaker,0,,ヒスイ,,Jade
-0027.dat,line,0,0 [ヒスイ],さて…いよいよ、ラストスパートだぜ！,0 [ヒスイ],Well ... it's finally the last spurt!
-0028.dat,speaker,0,,ヒスイ,,Jade
-0028.dat,speaker,1,,イネス,,Ines
-0028.dat,speaker,2,,シング,,Singing
-0028.dat,speaker,3,,クンツァイト,,Kunzite
-0028.dat,speaker,4,,リチア,,Lithia
-0028.dat,speaker,5,,カルセドニー,,Calcednony
-0028.dat,speaker,6,,コハク,,Kohaku
-0028.dat,speaker,7,,ベリル,,Beryl
-0028.dat,speaker,8,,ガラド,,Galado
+見せてみな！　お前のスピリアをよ！",0 [Hisui],Don’t give up! Show me your Spira!,
+0026.dat,speaker,0,,イネス,,Ines,
+0026.dat,line,0,0 [イネス],どんな想いが、あなたをここまで来させたのか…,0 [Ines],"What is this feeling, coming from you.",
+0027.dat,speaker,0,,ヒスイ,,Hisui,
+0027.dat,line,0,0 [ヒスイ],さて…いよいよ、ラストスパートだぜ！,0 [Hisui],"Now then, lets have one last bout!",
+0028.dat,speaker,0,,ヒスイ,,Hisui,
+0028.dat,speaker,1,,イネス,,Ines,
+0028.dat,speaker,2,,シング,,Shing,
+0028.dat,speaker,3,,クンツァイト,,Kunzite,
+0028.dat,speaker,4,,リチア,,Lithia,
+0028.dat,speaker,5,,カルセドニー,,Chalcedony,
+0028.dat,speaker,6,,コハク,,Kohaku,
+0028.dat,speaker,7,,ベリル,,Beryl,
+0028.dat,speaker,8,,ガラド,,Gall,
 0028.dat,line,0,0 [ヒスイ],"ついに…ついに…やりやがったな…！
-お前は…すげぇヤツだよ！　本当に！",0 [ヒスイ],"Finally ... finally ... it's done ...!
-You're ... great! very!"
+お前は…すげぇヤツだよ！　本当に！",0 [Hisui],Finally.. you did it! You’re.. amazing! I’m serious!,
 0028.dat,line,3,1 [イネス],"信じられない気持ち…でも、
-心のどこかで、あなたならって思ってた",1 [イネス],"I can't believe it ... but
-Somewhere in my heart I thought you were"
+心のどこかで、あなたならって思ってた",1 [Ines],I don’t believe this but... you actually did it.,
 0028.dat,line,6,0 [ヒスイ],"うまくは言えねぇが…
 どこまでも強くなろうとするおまえのスピリアが、
-俺達みんなに届いていたんだ",0 [ヒスイ],"I can't say it well ...
-Your Spilia who is going to be stronger
-We arrived to everyone"
+俺達みんなに届いていたんだ",0 [Hisui],"I dunno how to put this, but your Spira is getting really strong. And its reaching all of us.",
 0028.dat,line,9,1 [イネス],"それを追って、みんなが強くなろうとした。
 それがきっと、無限の進化を生んだんじゃないか…
-私たちは、そう思っているわ",1 [イネス],"After that, everyone tried to be stronger.
-I guess that created infinite evolution ...
-We think so"
+私たちは、そう思っているわ",1 [Ines],"One by one, everyone is getting stronger. I’m sure it’s from your limitless power.",
 0028.dat,line,12,0 [ヒスイ],"そう。みんなで強くなれたのは、
-お前のおかげって事だ！",0 [ヒスイ],"yes. What we all became stronger
-Thanks to you!"
-0028.dat,line,15,1 [イネス],最後は、皆で──お礼を言わせて,1 [イネス],"Finally, let everyone say thank you"
-0028.dat,line_speaker,28,,みんな,,Everyone
+お前のおかげって事だ！",0 [Hisui],"Yeah, we’re getting better. All thanks to you!",
+0028.dat,line,15,1 [イネス],最後は、皆で──お礼を言わせて,1 [Ines],"So we’re saying one last thank you, from all of us!",
+0028.dat,line_speaker,28,,みんな,,Everyone,
 0028.dat,line,28,"0 [ヒスイ]
 1 [イネス]
 2 [シング]
@@ -670,34 +516,27 @@ Thanks to you!"
 5 [カルセドニー]
 6 [コハク]
 7 [ベリル]
-8 [ガラド]",最後まで遊んでくれて、ありがとう！,"0 [ヒスイ]
-1 [イネス]
-2 [シング]
-3 [クンツァイト]
-4 [リチア]
-5 [カルセドニー]
-6 [コハク]
-7 [ベリル]
-8 [ガラド]",Thank you for playing to the end!
-0029.dat,speaker,0,,ヒスイ,,Jade
+8 [ガラド]",最後まで遊んでくれて、ありがとう！,"0 [Hisui]
+1 [Ines]
+2 [Shing]
+3 [Kunzite]
+4 [Lithia]
+5 [Chalcedony]
+6 [Kohaku]
+7 [Beryl]
+8 [Gall]","At last we’re here, thank you!","Finally we're here, thank you!"
+0029.dat,speaker,0,,ヒスイ,,Hisui,
 0029.dat,line,0,0 [ヒスイ],"いよぅ。何かおまえ、『男になる』とか言って、
-頑張ってるらしいじゃねぇか",0 [ヒスイ],"Io. Something, ""Become a man""
-You seem to be working hard"
+頑張ってるらしいじゃねぇか",0 [Hisui],"You’ve really become a man, keep at it.",
 0029.dat,line,4,0 [ヒスイ],"──ヘんッ！
-おまえなんかまだまだ、男として認められねぇな",0 [ヒスイ],"──Han!
-You haven't been recognized as a man yet"
+おまえなんかまだまだ、男として認められねぇな",0 [Hisui],Heh! You’ve still got a long way to go before I’ll recognize you as a man.,
 0029.dat,line,8,0 [ヒスイ],"ショップで買える物がまた増えたみたいだから、
 それを使って、俺ぐらいまで、
-もっと男を磨いてみやがれってんだ",0 [ヒスイ],"It seems that the number of things that can be bought at the shop has increased again
-Using it, until about me
-I polished the man more"
-0030.dat,speaker,0,,イネス,,Ines
+もっと男を磨いてみやがれってんだ",0 [Hisui],"Hit up the shop, go buy some items, and maybe you’ll do better next time.",
+0030.dat,speaker,0,,イネス,,Ines,
 0030.dat,line,0,0 [イネス],"ふふっ。いいんじゃない。
-頑張ってる男の子って、素敵よね",0 [イネス],"Fufu. Why not.
-The boy who is working hard is wonderful"
+頑張ってる男の子って、素敵よね",0 [Ines],"Hehe, not bad. Good luck boy.",
 0030.dat,line,3,0 [イネス],"その頑張りに期待して…ショップで手に入る物を
-追加しておいてあげたわよ",0 [イネス],"Expect that hard work ... What you can get at the shop
-I added it"
+追加しておいてあげたわよ",0 [Ines],"You’ve been working hard, so I’ve added some new items to my shop～",
 0030.dat,line,7,0 [イネス],"あなたにその気があるなら、もうちょっと、
-頑張ってみてもいいんじゃないかしら",0 [イネス],"If you feel like that, a little more
-I wonder if I can do my best"
+頑張ってみてもいいんじゃないかしら",0 [Ines],"If you’re up for it, maybe you could stop by for a visit?",

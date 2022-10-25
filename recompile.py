@@ -23,9 +23,9 @@ def extract(source, newtext, destination):
     destl7cdir = destination / 'tohdata_release'
     destl7cdir.mkdir(parents=True, exist_ok=True)
 
-    toir.recompile_eboot(ebootpath, newtext, destination)
+    #toir.recompile_eboot(ebootpath, newtext, destination)
     #toir.recompile_dat(l7cdir, newtext, destl7cdir)
-    #toir.recompile_skits(l7cdir, newtext, destl7cdir)
+    toir.recompile_skits(l7cdir, newtext, destl7cdir)
     #toir.recompile_story(l7cdir, newtext, destl7cdir)
     #toir.recompile_map_data(l7cdir, newtext, destl7cdir)
     #toir.recompile_textures(l7cdir, newtext, destl7cdir)

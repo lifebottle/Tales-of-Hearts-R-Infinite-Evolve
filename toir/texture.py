@@ -43,6 +43,7 @@ _TEX_FILES = [
     ('_Data/Stage/StageANE', 'StageANE.pck'),
     ('_Data/Stage/ShopANE', 'ShopANE.pck'),
     ('_Data/Stage/MenuANE', 'MenuANE.pck'),
+    ('_Data/Title/Autosave', 'AutosaveANE.pck'),
     ('_Data/Title/TitleANE', 'TitleANE.pck')
 ]
 
