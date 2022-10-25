@@ -1,0 +1,2 @@
+python findpointers.py
+pause
