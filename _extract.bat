@@ -1,2 +1,2 @@
-python extract.py tohdata_dir extracted
+python extract.py 0_tohdata_dir 1_extracted
 pause
