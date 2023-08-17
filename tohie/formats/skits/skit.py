@@ -23,7 +23,7 @@ class SkitChoices(SkitText):
 
 class Skit:
     def __init__(self, index, title, speakers):
-        self.title = title
+        #self.title = title
         self.index = index
         self.speakers = speakers
         self.lines = []
@@ -41,7 +41,7 @@ class SkitDeCompiler:
         return self.speakers, lines
 
     def _extract_speakers(self):
-        speaker_count = self.dat[10]
+        speaker_count = self.dat[4]
         speaker_base = struct.unpack_from('<L', self.dat, 16)[0]
         speakers = []
         for i in range(speaker_count):
@@ -51,8 +51,8 @@ class SkitDeCompiler:
         return speakers
 
     def _extract_lines(self):
-        base, = struct.unpack_from('<L', self.dat, 20)
-        count, = struct.unpack_from('<H', self.dat, 12)
+        base, = struct.unpack_from('<L', self.dat, 12)
+        count, = struct.unpack_from('<H', self.dat, 6)
         i = 0
         texts = []
         self._text_offsets = {}
@@ -61,8 +61,8 @@ class SkitDeCompiler:
             opcode = self.dat[offset]
             if opcode == 0x18:
                 texts.append(self._extract_line(i, offset))
-            #elif opcode == 0x1F:
-                #texts.append(self._extract_choices(i, offset))
+            elif opcode == 0x1F:
+                texts.append(self._extract_choices(i, offset))
             elif opcode == 0x22:
                 i += 1
             elif opcode == 0x25:
