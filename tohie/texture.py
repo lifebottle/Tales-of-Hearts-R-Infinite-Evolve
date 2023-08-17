@@ -44,6 +44,7 @@ _TEX_FILES = [
     ('_Data/Stage/StageANE', 'StageANE.pck'),
     ('_Data/Stage/ShopANE', 'ShopANE.pck'),
     ('_Data/Stage/MenuANE', 'MenuANE.pck'),
+    ('_Data/Stage/Chara/Player00', 'Player00.pck'),
     ('_Data/Title/TitleANE', 'TitleANE.pck')
 ]
 

@@ -24,7 +24,7 @@ def extract(source, destination):
     #tohie.extract_dat(l7cdir, destination)
     #tohie.extract_map_data(l7cdir, destination)
     #tohie.extract_script(l7cdir, destination)
-    tohie.extract_skits(l7cdir, destination)
+    #tohie.extract_skits(l7cdir, destination)
     tohie.extract_textures(l7cdir, destination)
 
 if __name__ == '__main__':
