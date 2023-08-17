@@ -22,8 +22,8 @@ intentions for Kohaku are pure...","NA_00_00_006"
 whip you into shape.","NA_00_00_007"
 "0000.dat","line","60","0 [ガラド]","あとは、そうだな…
 俺はおまえを男にすることはできるが、
-年頃の嬢ちゃんの気持ちまではちょっとなぁ……","0 [Gall]","Well then... I could make a man out of you, but
-I have no idea what the ladies like these days...","NA_00_00_008"
+年頃の嬢ちゃんの気持ちまではちょっとなぁ……","0 [Gall]","But I have no idea what the ladies like these 
+days...","NA_00_00_008"
 "0000.dat","line","69","0 [ガラド]","みんなのアドバイスを
 聞いてみるものいいんじゃねぇか？","0 [Gall]","Maybe you should go ask everyone else for
 their advice?","NA_00_00_009"
@@ -41,7 +41,7 @@ you need to know about being a man.","NA_00_00_012"
 それは男の必須条件だ。
 強くなくちゃ、守りたいものも、守れねぇ","0 [Gall]","One of the main tenets of being a man is that 
 you need to be strong. After all, how can you 
-keep anyone safe if you aren't strong.","NA_00_00_013"
+keep anyone safe if you aren’t strong.","NA_00_00_013"
 "0000.dat","line","93","0 [ガラド]","強くない奴は、
 男について、語ることも、学ぶ資格もないのさ…","0 [Gall]","Weaklings have no right to talk about being a
 man, and aren’t cut out to learn about being 
@@ -68,7 +68,7 @@ show on the road! I’m going to become a man!","NA_00_00_019"
 Hmm～, I see... So, whaddaya want to ask 
 me about?","NA_00_00_020"
 "0001.dat","line","16","2 [ベリル]","うーん、そうだなぁ。
-シングに足りないのは紳士さじゃないかなぁ？","2 [Beryl]","Hmm, well, you're kinda lacking in the
+シングに足りないのは紳士さじゃないかなぁ？","2 [Beryl]","Hmm, well, you’re kinda lacking in the
 gentle-man side of it, Shing...","NA_00_00_021"
 "0001.dat","line","22","1 [ガラド]","確かに。ガンドコ猪突猛進なサマに、
 紳士さが備われば嬢ちゃんもイチコロかもなぁ！","1 [Gall]","She’s right. If that all-out going recklessness
@@ -97,11 +97,11 @@ a hand.","NA_00_00_029"
 "0003.dat","speaker","0","","シング","","Shing",""
 "0003.dat","speaker","1","","ガラド","","Gall",""
 "0003.dat","speaker","2","","ベリル","","Beryl",""
-"0003.dat","line","1","2 [ベリル]","アイテテ……なんでプニプニの人が……","2 [Beryl]","W-what’s with that bouncy babe...?","NA_00_00_030"
+"0003.dat","line","1","2 [ベリル]","アイテテ……なんでプニプニの人が……","2 [Beryl]","Owwww... what’s with that bouncing babe?","NA_00_00_030"
 "0003.dat","line","5","1 [ガラド]","こういうことは羽の兄さんに相談する前に
 あたしを通せ、だとさ。
 言うだけ言って帰っちまったがな","1 [Gall]","She ran off saying, ""Before you go and ask 
-Wings for advice, I've got some of my own.""","NA_00_00_031"
+Wings for advice, I’ve got some of my own.""","NA_00_00_031"
 "0003.dat","line","9","2 [ベリル]","で、プニプニの人はなんて言ってたのさ？","2 [Beryl]","So what did she say?","NA_00_00_032"
 "0003.dat","line","13","1 [ガラド]","当たって砕けろ、それが真の男だよ！
 …ってな具合だったな","1 [Gall]","""Go for the broke! That’s the way of a true man!""
@@ -189,7 +189,7 @@ Kohaku how you feel!","NA_00_00_051"
 for us to eat!","NA_00_00_060"
 "0005.dat","line","120","0 [コハク]","本当！？　やった！
 ちょうどマイミソ切れたところだったの！
-気が利くね、シング。ありがとう♪","0 [Kohaku]","R-really!? That would be amazing! I ran out of my
+気が利くね、シング。ありがとう♪","0 [Kohaku]","Really?! That would be amazing! I ran out of my
 miso a little while ago. You’re so sweet, Shing!","NA_00_00_061"
 "0005.dat","line_speaker","130","","三人","","Three of them",""
 "0005.dat","line","130","2 [カルセドニー]
