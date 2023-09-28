@@ -1,4 +1,4 @@
-import toir
+import tohie
 import click
 from pathlib import Path
 
@@ -20,12 +20,12 @@ def extract(source, destination):
 
     destination.mkdir(parents=True, exist_ok=True)
 
-    toir.extract_eboot(ebootpath, destination)
-    #toir.extract_dat(l7cdir, destination)
-    #toir.extract_map_data(l7cdir, destination)
-    #toir.extract_script(l7cdir, destination)
-    toir.extract_skits(l7cdir, destination)
-    toir.extract_textures(l7cdir, destination)
+    #tohie.extract_eboot(ebootpath, destination)
+    #tohie.extract_dat(l7cdir, destination)
+    #tohie.extract_map_data(l7cdir, destination)
+    #tohie.extract_script(l7cdir, destination)
+    #tohie.extract_skits(l7cdir, destination)
+    tohie.extract_textures(l7cdir, destination)
 
 if __name__ == '__main__':
     extract()
