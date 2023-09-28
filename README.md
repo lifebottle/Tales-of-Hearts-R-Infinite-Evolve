@@ -9,6 +9,7 @@ Discord: https://discord.gg/vRmwUZUDwb
 ## Hacker Note 1
 Check out Tales of Innocence R project, resources are very similar.
 
+
 ## Hacker Note 2 Audio Container for Battle Sound
 Format of File is as follows;
 ```
