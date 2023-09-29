@@ -73,8 +73,7 @@ u32 empty
 
 Format for Riff are as follows;
 ```
-Normal at9 that are appended together with this setting -e -br 72
-Audio need to be exported to WAV with the encoding "Signed 16bit PCM" with Audacity before converting
+The riff chunk are at9, they are aligned 16bytes.
 ```
 
 Format for PPEF are as follows (always the same for each audio file);
