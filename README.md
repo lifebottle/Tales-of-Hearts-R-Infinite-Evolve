@@ -10,7 +10,25 @@ Discord: https://discord.gg/vRmwUZUDwb
 Check out Tales of Innocence R project, resources are very similar.
 
 
-## Hacker Note 2 Audio Container for Battle Sound
+## Hacker Note 2
+This Format is well known and can be converted using at9tool.exe found online or in the tools directory
+For Normal at9 that aren't in a container you can use this command line
+```
+PSVita_at9tool.exe -d <PathOf.at9> <PathofExport.wav>
+```
+You can also use a bat loop if the folder has a lot of at9, here's an exemple
+```
+pushd "0_tohdata_dir/tohdata_release/_Data/Field/Voice/00"
+for /f "tokens=1* delims=." %%f in ('dir /b /a-d') do (
+	pushd "tools/Audio/AT9_AT3_Converter_V2.3/AT9&AT3_Converter_V2.3/ATRAC"
+    PSVita_at9tool.exe -d "../../../../../0_tohdata_dir/tohdata_release/_Data/Field/Voice/00/%%f.at9" "../../../../../1_extracted/Sound/00/%%f.wav"
+	popd
+)
+popd
+```
+
+## Hacker Note 3 
+Audio Container for Battle Sound
 Format of File is as follows;
 ```
 Header 0x30
