@@ -12,6 +12,7 @@ Check out Tales of Innocence R project, resources are very similar.
 
 ## Hacker Note 2
 This Format is well known and can be converted using at9tool.exe found online or in the tools directory
+
 For Normal at9 that aren't in a container you can use this command line
 ```
 PSVita_at9tool.exe -d <PathOf.at9> <PathofExport.wav>
@@ -26,9 +27,24 @@ for /f "tokens=1* delims=." %%f in ('dir /b /a-d') do (
 )
 popd
 ```
+Converting back to at9 from wav
+
+First the .wav need to be exactly 768kbps, to convert a file that is higher you can use Audacity then use Export Multiple with these settings > 
+
+Format: WAV (Microsoft) 
+
+Options: Encoding Signed 16-bit PCM
+
+Once this is done we use PSVita_at9tool.exe to convert back to .at9 here's an exemple of a bat command
+```
+pushd "tools/Audio/AT9_AT3_Converter_V2.3/AT9&AT3_Converter_V2.3/ATRAC"
+PSVita_at9tool.exe -e -br 72 <PathOf.wav> <PathofExport.at9>
+popd
+```
 
 ## Hacker Note 3 
 Audio Container for Battle Sound
+
 Format of File is as follows;
 ```
 Header 0x30
