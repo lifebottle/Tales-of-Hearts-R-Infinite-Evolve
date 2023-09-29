@@ -45,6 +45,8 @@ popd
 ## Hacker Note 3 
 Audio Container for Battle Sound
 
+When it comes to pointers, they are always relative to one of the 3 sections.
+
 Format of File is as follows;
 ```
 Header 0x30
@@ -87,11 +89,32 @@ Format for EPHD are as follows;
 u32 magic EPHD
 u32 Size of EPHD Header without u32magic and u32size
 u32 unknown but always 0x00000100
-u32 0xFFFFFFFF
+u32 0xFFFFFFFF (they seem to buffer with 0xFF not 0x00)
 u32 pointer to PPPG Section
-u32 size of EPHD and PPPG section combined
-u32 pointer to PPTN section
-u32 size of EPHD and PPPG and PPTN section combined
-
+u32 pointer to PPTN Section
+u32 pointer to PPVA Section
+the rest is 0xFF buffer
 ```
+
+Format for PPVA that is inside the EPHD are as follows;
+```
+u32 magic PPVA
+u32 Size of PPVA Section without previous u32magic and u32size
+u32 unknown but always 0x10000000
+u32 0xFFFFFFFF (they seem to buffer with 0xFF not 0x00)
+u32 0x00000000
+u32 enum to number of structure of pointers starting from 0 not 1, ex: 0x34 for 53 pointers
+u32 0xFFFFFFFF
+u32 0xFFFFFFFF
+```
+Format of the Pointer Structure for the PPVA;
+
+(This is what we want to modify once we reinsert the new audio files)
+```
+u32 pointer to riff (relative so first one is 0x00000000)
+u32 bit-rate in hex, always 0x80BB0000 aka 48Khz
+u32 size of the riff sound before they buffer/align 16bytes
+u32 0x01000000 always this number
+```
+
 
