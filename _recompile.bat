@@ -50,7 +50,10 @@ PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_040.
 PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_041.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_00_041.at9"
 PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_042.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_00_042.at9"
 
+popd
 
+pushd "tools/Audio/Audio_Dat_Script"
+python AudioDatSplitter.py "--insert" "../../../0_tohdata_dir/tohdata_release/_Data/Sound/Se/" "../../../3_patched/tohdata_release/_Data/Sound/Se/" "../../../2_translated/Sound/se/" "../AT9_AT3_Converter_V2.3/AT9&AT3_Converter_V2.3/ATRAC/PSVita_at9tool.exe"
 popd
 
 pushd "tools\Asm"
