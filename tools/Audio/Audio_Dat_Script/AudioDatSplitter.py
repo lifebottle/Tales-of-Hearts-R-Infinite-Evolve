@@ -152,7 +152,6 @@ def insert_audio(in_folder: Path, audio_folder: Path, out_folder: Path, converte
             ])
 
         at9_files = [at9_folder / f"{og_file.stem}_{x}.at9" for x in range(1, riff_count + 1)]
-        riff_ptrs.append(0)
         for at9_path in at9_files:
             with open(at9_path, "rb") as at9:
                 riff = at9.read()
