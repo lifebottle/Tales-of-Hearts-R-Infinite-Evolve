@@ -1,4 +1,5 @@
 # Tales of Hearts R - Infinite Evolve
+![image](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/blob/main/docs/Hearts_GITHUB_Cover_3.png)
 For PSVita and Vita3k.  
 
 Google Sheets: https://docs.google.com/spreadsheets/d/1PFX-TU-6UQuQHEk8Hv91UqJG-OWEo1T6mVx-8tZ4O4Q/edit?usp=sharing  
