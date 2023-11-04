@@ -77,6 +77,34 @@ PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_067.
 PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_068.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_00_068.at9"
 PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_00_069.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_00_069.at9"
 
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_000.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_000.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_001.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_001.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_002.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_002.at9"
+::missing 003                                                                                                                                      
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_004.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_004.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_005.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_005.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_006.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_006.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_007.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_007.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_008.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_008.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_009.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_009.at9"
+::missing 004                                                                                                                                       
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_011.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_011.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_012.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_012.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_013.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_013.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_014.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_014.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_015.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_015.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_016.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_016.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_017.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_017.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_018.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_018.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_019.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_019.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_020.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_020.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_021.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_021.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_022.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_022.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_023.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_023.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_024.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_024.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_025.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_025.at9"
+PSVita_at9tool.exe -e -br 72 "../../../../../2_Translated/Sound/00/NA_00_01_026.wav"      "../../../../../3_Patched/tohdata_release/_Data/Field/Voice/00/NA_00_01_026.at9"
+
 
 popd
 
