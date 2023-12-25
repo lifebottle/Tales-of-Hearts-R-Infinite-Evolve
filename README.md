@@ -173,9 +173,3 @@ u32 bit-rate in hex, always 0x80BB0000 aka 48Khz
 u32 size of the riff sound before they buffer/align 16bytes
 u32 0x01000000 always this number
 ```
-
-
-Peridot Harmotome: Mel Valentine 
-Amethyst Von: D. Tyler Fultz
-
-
