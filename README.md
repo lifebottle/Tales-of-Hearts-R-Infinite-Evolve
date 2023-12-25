@@ -19,7 +19,7 @@ Menu Translator & Project Manager: Pegi
 Battle Sounds Translator: Amanpreet "Ai" Kaur
 
 ## Editing
-Editor: SymphoniaLauren
+Lead Editor: SymphoniaLauren
 
 Editor: Dragonbleapiece
 
