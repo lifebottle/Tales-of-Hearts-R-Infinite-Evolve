@@ -34,6 +34,8 @@ Little Script kiddy: Pegi
 
 Ghost of Project Past: LostTemplar (for the initial tool)
 
+Patcher Code: Trixarian
+
 ## Graphic Editing
 Lead Graphic Artist: Amarant
 
