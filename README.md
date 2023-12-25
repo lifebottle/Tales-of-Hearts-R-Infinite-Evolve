@@ -6,6 +6,63 @@ Google Sheets: https://docs.google.com/spreadsheets/d/1PFX-TU-6UQuQHEk8Hv91UqJG-
 
 Discord: https://discord.gg/vRmwUZUDwb  
 
+# Credits
+
+## Translation (Main Story & Menu)
+Lead Translator: Summer
+
+Linguistic Expert: SymphoniaLauren
+
+Menu Translator & Project Manager: Pegi
+
+## Translation (Battle Sounds)
+Battle Sounds Translator: Amanpreet "Ai" Kaur
+
+## Editing
+Editor: SymphoniaLauren
+
+Editor: Dragonbleapiece
+
+Editor & Lead QA: Gator
+
+## Programming
+God Emperor: Ethanol
+
+Second God Emperor: Julian
+
+Little Script kiddy: Pegi
+
+Ghost of Project Past: LostTemplar (for the initial tool)
+
+## Graphic Editing
+Lead Graphic Artist: Amarant
+
+Misc Graphic Artist: Badspot
+
+## English Dub by Writer's Block Productions
+
+Voice Director & Mixing Engineer: Stone Dragon Horse
+
+Assistant Voice Director: FaustoBravo
+
+## Voice Cast 
+Shing Meteoryte: NoctisTheSkyWeaver
+
+Kohaku Hearts: Kennedy Spatz
+
+Gall Gruner: D. Tyler Fultz
+
+Beryl Benito: Aderu Moro
+
+Chalcedony Akerman: William Morris Jr.
+
+Kunzite: William Morris Jr.
+
+Peridot Harmotome: Mel Valentine 
+
+Amethyst Von: D. Tyler Fultz
+
+# Romhacking Notes
 
 ## Hacker Note 1
 Check out Tales of Innocence R project, resources are very similar.
@@ -116,5 +173,9 @@ u32 bit-rate in hex, always 0x80BB0000 aka 48Khz
 u32 size of the riff sound before they buffer/align 16bytes
 u32 0x01000000 always this number
 ```
+
+
+Peridot Harmotome: Mel Valentine 
+Amethyst Von: D. Tyler Fultz
 
 
