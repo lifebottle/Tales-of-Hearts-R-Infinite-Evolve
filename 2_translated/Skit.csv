@@ -6,7 +6,7 @@
 you?","NA_00_00_000"
 "0000.dat","line","15","1 [シング]","ガラド、ものは相談なんだけどさ……","1 [Shing]","Well, Gall, I would like to discuss something
 with you.","NA_00_00_001"
-"0000.dat","line","19","0 [ガラド]","ああん？　なんだ、改まって","0 [Gall]","Wha-? Why so formal?","NA_00_00_002"
+"0000.dat","line","19","0 [ガラド]","ああん？　なんだ、改まって","0 [Gall]","Wha-?! Okay...what’s up?","NA_00_00_002"
 "0000.dat","line","26","1 [シング]","ガラド、オレ…………っ！","1 [Shing]","Gall, I...","NA_00_00_003"
 "0000.dat","line","30","1 [シング]","オレ、男になりたいんだ！","1 [Shing]","I want to become a man!","NA_00_00_004"
 "0000.dat","line","46","0 [ガラド]","はは～ん、さては、
@@ -15,7 +15,7 @@ with you.","NA_00_00_001"
 Ah, to be young...","NA_00_00_005"
 "0000.dat","line","51","1 [シング]","い、いちゃつくっていうか!?
 え、えと…そんなんじゃなくて、
-オレは純粋にコハクと――","1 [Shing]","G-get with the ladies?! Um... No, not that, my
+オレは純粋にコハクと――","1 [Shing]","G-Get with the ladies?! Um... No, not that, my
 intentions for Kohaku are pure...","NA_00_00_006"
 "0000.dat","line","56","0 [ガラド]","まぁまぁ、そう照れなさんな。
 そういうことなら、いっちょ俺が鍛えてやるぜ","0 [Gall]","Now now, no need to get flustered. I’ll help
@@ -57,7 +57,7 @@ your way! That’s how a man does things.","NA_00_00_016"
 わかったな","0 [Gall]","Yes. That’s what it’s all about. Capiche?","NA_00_00_018"
 "0000.dat","line","115","1 [シング]","う、うん！　わかったよガラド！
 よーし、やってやるぞ！
-絶対男になってやる！","1 [Shing]","Y-yeah! I totally get it, Gall! All right, let’s get this
+絶対男になってやる！","1 [Shing]","Y-Yeah! I totally get it, Gall! All right, let’s get this
 show on the road! I’m going to become a man!","NA_00_00_019"
 "0001.dat","speaker","0","","シング","","Shing",""
 "0001.dat","speaker","1","","ガラド","","Gall",""
@@ -132,7 +132,7 @@ progress conveying your feelings.","NA_00_00_037"
 おまえ自身のスピリアを強くする","0 [Chalcedony]","Then show me your convictionー Your vow to
 make your Spiria stronger.","NA_00_00_039"
 "0004.dat","line","25","1 [シング]","で、でも…オレ、なんて言ったらいいか
-思いつかないんだ……","1 [Shing]","B-but I can’t think of anything to say...","NA_00_00_040"
+思いつかないんだ……","1 [Shing]","B-But I can’t think of anything to say...","NA_00_00_040"
 "0004.dat","line","30","3 [ベリル]","んー、だったらあの人に聞いてみるのはどう？
 世界勇者の人","3 [Beryl]","Then why don’t you try asking the ""World’s 
 Bravest Man"" about it?","NA_00_00_041"
@@ -166,7 +166,7 @@ things no one else can do.","NA_00_00_048"
 コハクは、おまえにとって大切な人なんだろう？","2 [Chalcedony]","You should speak from the heart. You are 
 Kohaku’s one and only, correct?","NA_00_00_049"
 "0005.dat","line","34","1 [シング]","うん…………そうだね……カル。ありがとう！
-オレ、やるよ！","1 [Shing]","Y-yeah, that’s right! Chalcedony, thank you!
+オレ、やるよ！","1 [Shing]","Y-Yeah, that’s right! Chalcedony, thank you!
 I’ll do it!","NA_00_00_050"
 "0005.dat","line","47","3 [ベリル]","鉄は熱いうちに打て、だね！
 よぉし、それじゃコハク呼んできちゃうよ～！","3 [Beryl]","Strike while the iron’s hot, Shing! You gotta tell
@@ -179,7 +179,7 @@ Kohaku how you feel!","NA_00_00_051"
 "0005.dat","line","91","0 [コハク]","なに、シング？","0 [Kohaku]","What’s up, Shing?","NA_00_00_056"
 "0005.dat","line","95","1 [シング]","あ、あの……
 オ、オ、オレ…………
-コ、コハクのこと……す…………","1 [Shing]","U-um... I-I... you.. love...","NA_00_00_057"
+コ、コハクのこと……す…………","1 [Shing]","U-Um... I-I... you.. love...","NA_00_00_057"
 "0005.dat","line","99","0 [コハク]","す……？","0 [Kohaku]","Love?","NA_00_00_058"
 "0005.dat","line_speaker","104","","シング","","Shing",""
 "0005.dat","line","104","","（やっぱり、ダメだ…！）","","(Damn it!)","NA_00_00_059"
@@ -233,8 +233,8 @@ been planning on seeing this through from
 the start.","NA_00_01_002"
 "0006.dat","line","18","4 [ベリル]","あと一つ……なんだよね。
 ねぇねぇ、それじゃあさ、おっさん。
-アレ使ってみない？","4 [Beryl]","Woah! Uhhh, old timer. The thing did a thing. 
-Wanna try it now? Ya know...""that!""","NA_00_01_003"
+アレ使ってみない？","4 [Beryl]","Huh. The thing did a thing. Hey, old timer!
+Let’s try it! Ya know, ""that!""","NA_00_01_003"
 "0006.dat","line","24","3 [ガラド]","アレって……、ああ、アレか？","3 [Gall]","That? ...Oh, you mean that.","NA_00_01_004"
 "0006.dat","line","28","2 [カルセドニー]","一体何の話だ？","2 [Chalcedony]","What are you two talking about?","NA_00_01_005"
 "0006.dat","line","32","3 [ガラド]","ああ、実はな…
@@ -266,7 +266,7 @@ Good enough for us, right?","NA_00_01_012"
 he said it had other uses...","NA_00_01_013"
 "0006.dat","line","61","4 [ベリル]","貸して貸して！","4 [Beryl]","Let me see!","NA_00_01_014"
 "0006.dat","line","69","3 [ガラド]","あ！　おい！
-……ったく…………","3 [Gall]","H-hey! ... Ugh, kids.","NA_00_01_015"
+……ったく…………","3 [Gall]","H-Hey! ...Ugh, kids.","NA_00_01_015"
 "0006.dat","line","75","4 [ベリル]","ぐふふ……。あれ……？
 でも、コハクの最後のスピルーンって、
 一体なんだろう…？","4 [Beryl]","Hehehe... Oh, thinking about Kohaku’s last 
@@ -321,10 +321,10 @@ answers!","NA_00_01_032"
 it’s warping her entire personality around it!","NA_00_01_034"
 "0006.dat","line","202","3 [ガラド]","ある程度時間が経てば、元に戻るらしいが","3 [Gall]","It should wear off in a moment.","NA_00_01_035"
 "0006.dat","line","206","1 [シング]","び、びっくりしたー。あれ？
-オレ、なにも聞かれてないけど……","1 [Shing]","W-woah! Huh? Did I hear something just now?","NA_00_01_036"
+オレ、なにも聞かれてないけど……","1 [Shing]","W-Woah! Huh? Did I hear something just now?","NA_00_01_036"
 "0006.dat","line","212","4 [ベリル]","ねぇ、コハク。シングには聞かないの？
 ボクたちよりも気になることが
-たくさんあるんじゃない？","4 [Beryl]","Hey Kohaku, why don’t you go pester Shing? 
+たくさんあるんじゃない？","4 [Beryl]","Hey Kohaku, why don’t you go hang out with Shing? 
 I’m sure he’s more interesting to you than we are.","NA_00_01_037"
 "0006.dat","line","216","0 [コハク]","え、えっと、その……
 シングはいいかなって……","0 [Kohaku]","Um... well... I’m good on asking Shing...","NA_00_01_038"
@@ -339,13 +339,13 @@ about Shing!","NA_00_01_042"
 "0006.dat","line","243","0 [コハク]","でも、聞くの恥ずかしいんだもん……","0 [Kohaku]","But... It’d be awkward...","NA_00_01_043"
 "0006.dat","line","247","1 [シング]","恥ずかしい!?","1 [Shing]","Awkward?!","NA_00_01_044"
 "0006.dat","line","253","0 [コハク]","ああ、今のは違うの！
-わ、忘れてぇ！","0 [Kohaku]","Well, now’s not the time! J-just forget about it!","NA_00_01_045"
+わ、忘れてぇ！","0 [Kohaku]","Well, now’s not the time! J-Just forget about it!","NA_00_01_045"
 "0006.dat","line","265","4 [ベリル]","わー……
-まーたふたりの世界が始まっちゃったよ……","4 [Beryl]","Well now, it looks like it’s the start of something 
+まーたふたりの世界が始まっちゃったよ……","4 [Beryl]","Ugh...it looks like it’s the start of something 
 between the two of them again.","NA_00_01_046"
 "0006.dat","line","270","2 [カルセドニー]","と、とりあえず、
 この空気をなんとか出来ないか？
-妙な気恥ずかしさを覚える","2 [Chalcedony]","A-anyway, maybe we should do something 
+妙な気恥ずかしさを覚える","2 [Chalcedony]","A-Anyway, maybe we should do something 
 about the mood here? I’m feeling secondhand 
 embarrassment.","NA_00_01_047"
 "0006.dat","line","274","3 [ガラド]","思念を集中すれば、一度中に入ってからでも
@@ -397,12 +397,12 @@ their tea?","NA_00_01_058"
 something other than miso! Anything else is fine! 
 Here!","NA_00_01_061"
 "0006.dat","line","368","0 [コハク]","シ・ン・グ♪","0 [Kohaku]","Shi～ng ♪","NA_00_01_062"
-"0006.dat","line","373","1 [シング]","え、え？　ど、どうしたの、コハク？","1 [Shing]","Eh? W-what’s up Kohaku?","NA_00_01_063"
+"0006.dat","line","373","1 [シング]","え、え？　ど、どうしたの、コハク？","1 [Shing]","Huh? W-What’s up Kohaku?","NA_00_01_063"
 "0006.dat","line","377","0 [コハク]","ねぇ。
 ……一緒にあ、そ、ぼ……？","0 [Kohaku]","Hey, do you wanna... have some fun?","NA_00_01_064"
 "0006.dat","line","381","4 [ベリル]","な、こ、これは……","4 [Beryl]","What... is she...","NA_00_01_065"
 "0006.dat","line","385","1 [シング]","い、いや！
-とっさのことだったから、オレも何がなんだか！","1 [Shing]","N-no, it’s not what you’re thinking! I needed 
+とっさのことだったから、オレも何がなんだか！","1 [Shing]","N-No, it’s not what you’re thinking! I needed 
 something fast, so I just did whatever!","NA_00_01_066"
 "0006.dat","line","389","3 [ガラド]","ふーむ。これはおそらく……","3 [Gall]","Hmph... I know what this is...","NA_00_01_067"
 "0006.dat","line","393","2 [カルセドニー]","おそらく？","2 [Chalcedony]","You do?","NA_00_01_068"
@@ -418,14 +418,14 @@ shameless Spiria! I thought too highly of you!","NA_00_01_071"
 the moment thing! I didn’t want this to happen! 
 It was an accident!","NA_00_01_072"
 "0006.dat","line","416","4 [ベリル]","とっさだから本心が出たんだろー！
-このケダモノー！","4 [Beryl]","So your real intentions come out in the spur of 
-the moment, huh! You’re an animal!","NA_00_01_073"
+このケダモノー！","4 [Beryl]","""Spur of the moment""? Yeah, right. You planned
+this, you animal!","NA_00_01_073"
 "0006.dat","line","420","3 [ガラド]","まぁまぁ。シングを責めるなって。
 若い男なら、仕方のないことだぜ","3 [Gall]","Now now. Don’t go blaming Shing. He’s a young 
 man, so he can’t help it.","NA_00_01_074"
 "0006.dat","line","424","0 [コハク]","うふふ、シングったら……かわいい","0 [Kohaku]","Hehe, Shing you’re pretty cute...","NA_00_01_075"
-"0006.dat","line","427","1 [シング]","こ、コハク…………","1 [Shing]","Ko... Kohaku...","NA_00_01_076"
-"0006.dat","line","430","0 [コハク]","ねぇ、シング、一緒に……遊ぼう……？","0 [Kohaku]","Hey, Shing. Do you.. want to have some fun 
+"0006.dat","line","427","1 [シング]","こ、コハク…………","1 [Shing]","Ko...Kohaku...","NA_00_01_076"
+"0006.dat","line","430","0 [コハク]","ねぇ、シング、一緒に……遊ぼう……？","0 [Kohaku]","Hey, Shing. Do you... want to have some fun 
 with me?","NA_00_01_077"
 "0006.dat","line_speaker","434","","シング","","Shing",""
 "0006.dat","line","434","","（うう、でも、これはこれで……
@@ -437,14 +437,14 @@ getting a little lucky here...)","NA_00_01_078"
 "0006.dat","line","459","0 [コハク]","つーかまーえたっ♪
 無限！　滅！　殺！","0 [Kohaku]","Here～ I～ go～ I’m! Gonna! Kick! Your! Ass!","NA_00_01_082"
 "0006.dat","line","462","1 [シング]","ぎゃぁぁぁぁぁぁぁぁぁぁ！","1 [Shing]","Ahhhh!","NA_00_01_083"
-"0006.dat","line","482","1 [シング]","や、やっと元に戻った……","1 [Shing]","S-she’s back to normal...","NA_00_01_084"
+"0006.dat","line","482","1 [シング]","や、やっと元に戻った……","1 [Shing]","S-She’s back to normal...","NA_00_01_084"
 "0006.dat","line","485","2 [カルセドニー]","どうやら遊び疲れたようだな。
 眠ってしまった","2 [Chalcedony]","It looks like all that fooling around put her 
 to sleep.","NA_00_01_085"
 "0006.dat","line","489","1 [シング]","オレも、あやうく意識が飛びそうだったよ……","1 [Shing]","I’m on the verge of collapsing, myself.","NA_00_01_086"
 "0006.dat","line","493","4 [ベリル]","結局さ、コハクの最後のスピルーンは
-なんなんだろうね？","4 [Beryl]","Well, after all that, I wonder what Kohaku’s final 
-Spiria Core shard is going to be?","NA_00_01_087"
+なんなんだろうね？","4 [Beryl]","Now that that’s done, I wonder what Kohaku’s 
+final Spiria Core shard is going to be?","NA_00_01_087"
 "0006.dat","line","497","2 [カルセドニー]","「好奇心」「気品」「お色気」
 どれもピンとこなかったな","2 [Chalcedony]","""Curiosity,"" ""Grace,"" ""Horniness.""
 None of them seem to fit the bill.","NA_00_01_088"
